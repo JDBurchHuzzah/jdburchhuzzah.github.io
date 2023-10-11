@@ -2,9 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-
-![Markdowm Image][/image/profilepfp.jpg]
+![Profile Image](/image/profilepic.jpg)
 
 <p>Hello! I am JD Burch!</p>
 <p>I am a high school senior</p>
