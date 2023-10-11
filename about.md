@@ -14,11 +14,11 @@ layout: page
 
 <h2>Band</h2>
 
-<p style="margin-left: 25px;"> <h4>Day Band</h4> </p>
+    <h4>Day Band</h4>
 
-  <h4>Small Ensembles</h4>
+    <h4>Small Ensembles</h4>
 
-  <h4>Marching Band</h4>
+    <h4>Marching Band</h4>
 
 <h2>Swimming</h2>
 
