@@ -9,7 +9,7 @@ tag:
 - elements
 star: true
 category: blog
-author: JD Burch
+author: johndoe
 description: Markdown summary with different options
 ---
 
