@@ -14,11 +14,11 @@ layout: page
 
 <h2>Band</h2>
 
-<h3>Day Band</h3>
+  <h4>Day Band</h4>
 
-<h3>Small Ensembles</h3>
+  <h4>Small Ensembles</h4>
 
-<h3>Marching Band</h3>
+  <h4>Marching Band</h4>
 
 <h2>Swimming</h2>
 
