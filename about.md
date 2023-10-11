@@ -22,8 +22,6 @@ layout: page
 
 <h2>Swimming</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<h2>Scouts</h2>
+
+<h2>Podcasts & Apple</h2>
