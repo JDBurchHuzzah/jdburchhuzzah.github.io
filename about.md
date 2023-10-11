@@ -6,15 +6,17 @@ layout: page
 
 <p>Hello! I am JD Burch!</p>
   
-<p>I am a high school senior.</p>
+<p>I am a high school senior</p>
   
 <p>I play Bass Clarinet and Tenor Sax</p>
   
-<p>I am a All Confrence Varsity Swimmer in the 100 Butterfly and 100 Breastroke.</p>
+<p>I am a captain on the varsity swim team</p>
   
 <p>I am very active in the Relay FM Members Discord, and subscribe to Connected Pro. I am a very avid listener to most other Relay shows as well.</p>
   
-<p>I enjoy technology, and have a deep knowledge and interest of Apple.</p>
+<p>I enjoy technology, and have a deep knowledge and interest of Apple</p>
+
+<p>I am an Eagle Scout and active member of Scouts BSA</p>
 
 <h2>Band</h2>
 
