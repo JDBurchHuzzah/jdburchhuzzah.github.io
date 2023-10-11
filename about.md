@@ -14,7 +14,7 @@ layout: page
 
 <h2>Band</h2>
 
-        <h4>Day Band</h4>
+<h4>Day Band</h4>
 
 <h4>Small Ensembles</h4>
 
