@@ -19,6 +19,7 @@ layout: page
 <h4>Small Ensembles</h4>
 <p>Finishing format, content coming later</p>
 <h4>Marching Band</h4> </div>
+<p>Finishing format, content coming later</p>
 
 <h2>Swimming</h2>
 
