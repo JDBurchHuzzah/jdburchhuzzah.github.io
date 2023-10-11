@@ -4,33 +4,17 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
- Hello! I am JD Burch!   
+<p>Hello! I am JD Burch!</p>
   
-  I am a high school senior.   
+<p>I am a high school senior.</p>
   
-  I play Bass Clarinet, as well as Tenor Sax! I earned a Division 1 rating at the MSBOA State Solo and Ensemble Festival multiple times on Bass Clarinet, and was also accepted into the MSBOA District 4 Honors Band in 2023! I am auditioning for the 2024 MSBOA All State Symphony Orchestra.   
+<p>I play Bass Clarinet, as well as Tenor Sax! I earned a Division 1 rating at the MSBOA State Solo and Ensemble Festival multiple times on Bass Clarinet, and was also accepted into the MSBOA District 4 Honors Band in 2023! I am auditioning for the 2024 MSBOA All State Symphony Orchestra.</p>
   
-  I am a All Confrence Varsity Swimmer in the 100 Butterfly and 100 Breastroke.   
+<p>I am a All Confrence Varsity Swimmer in the 100 Butterfly and 100 Breastroke.</p>
   
-  I am very active in the Relay FM Members Discord, and subscribe to Connected Pro. I am a very avid listener to most other Relay shows as well.   
+<p>I am very active in the Relay FM Members Discord, and subscribe to Connected Pro. I am a very avid listener to most other Relay shows as well.</p>
   
-  I enjoy technology, and have a deep knowledge and interest of Apple.   
-  
-  Testing a new theme, website under active development 
+<p>I enjoy technology, and have a deep knowledge and interest of Apple.</p>
 
 <h2>Skills</h2>
 
