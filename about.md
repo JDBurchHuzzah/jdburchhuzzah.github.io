@@ -4,6 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+![Markdowm Image][/image/profilepfp.jpg]
+
 <p>Hello! I am JD Burch!</p>
 <p>I am a high school senior</p>
 <p>I play Bass Clarinet and Tenor Sax</p>
