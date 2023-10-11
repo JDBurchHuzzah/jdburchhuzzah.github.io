@@ -14,7 +14,7 @@ layout: page
 
 <h2>Band</h2>
 
-<div style="text-indent: 20px;"> band </div>
+<div style="text-indent: 20px;"> <h4>Day Band</h4> </div>
 
   <h4>Small Ensembles</h4>
 
