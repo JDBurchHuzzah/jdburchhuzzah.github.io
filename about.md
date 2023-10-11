@@ -15,9 +15,9 @@ layout: page
 <h2>Band</h2>
 
 <div style="text-indent: 25px;"> <h4>Day Band</h4>
-<p>Finishing template, content coming later</p>
+<p>Finishing format, content coming later</p>
 <h4>Small Ensembles</h4>
-
+<p>Finishing format, content coming later</p>
 <h4>Marching Band</h4> </div>
 
 <h2>Swimming</h2>
