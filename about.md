@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<img src="profilepfp.jpg" alt="test">
+<img src="/assets/images/profilepfp.jpg" alt="test">
 
 <p>Hello! I am JD Burch!</p>
 <p>I am a high school senior</p>
