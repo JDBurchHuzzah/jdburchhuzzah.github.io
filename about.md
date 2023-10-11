@@ -16,7 +16,7 @@ layout: page
   
 <p>I enjoy technology, and have a deep knowledge and interest of Apple.</p>
 
-<h2>Skills</h2>
+<h2>Band</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -34,7 +34,7 @@ layout: page
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Swimming</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
