@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Markdown Image][/images/profilepfp.jpg]
+![Markdown Image][/image/profilepfp.jpg]
 
 <p>Hello! I am JD Burch!</p>
 <p>I am a high school senior</p>
