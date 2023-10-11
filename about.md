@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image](/image/profilepic.jpg)
+![Profile Image](/image/profilepfp.jpg)
 
 <p>Hello! I am JD Burch!</p>
 <p>I am a high school senior</p>
