@@ -8,7 +8,7 @@ layout: page
   
 <p>I am a high school senior.</p>
   
-<p>I play Bass Clarinet, as well as Tenor Sax! I earned a Division 1 rating at the MSBOA State Solo and Ensemble Festival multiple times on Bass Clarinet, and was also accepted into the MSBOA District 4 Honors Band in 2023! I am auditioning for the 2024 MSBOA All State Symphony Orchestra.</p>
+<p>I play Bass Clarinet and Tenor Sax</p>
   
 <p>I am a All Confrence Varsity Swimmer in the 100 Butterfly and 100 Breastroke.</p>
   
