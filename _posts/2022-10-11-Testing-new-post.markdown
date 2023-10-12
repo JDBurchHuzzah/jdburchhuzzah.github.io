@@ -5,7 +5,7 @@ date: 2022-11-11 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-star: true
+star: false
 category: blog
 author:
 description: Markdown summary with different options
