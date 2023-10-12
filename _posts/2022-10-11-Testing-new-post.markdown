@@ -1,5 +1,5 @@
 ---
-title: "Testing new post"
+title: Testing new post
 layout: post
 date: 2022-02-24 22:44
 image: /assets/images/markdown.jpg
