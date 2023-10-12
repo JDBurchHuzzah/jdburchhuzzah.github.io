@@ -4,7 +4,7 @@ layout: post
 date: 2022-10-12 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
-star: true
+star: false
 category: blog
 description: testing testing 123
 ---
