@@ -1,5 +1,5 @@
 ---
-title: Testing new post
+title: "Markdown Extra Components"
 layout: post
 date: 2022-11-11 22:44
 image: /assets/images/markdown.jpg
