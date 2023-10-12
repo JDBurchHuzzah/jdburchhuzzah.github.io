@@ -9,6 +9,6 @@ category: blog
 description: testing testing 123
 ---
 
-<h1>Second Test Article</h2>
+<h1>Second Test Article</h1>
 
 Hello! This is my second test article on my new website!
