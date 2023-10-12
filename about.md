@@ -16,11 +16,14 @@ layout: page
 <h2>Band</h2>
 
 <div style="text-indent: 25px;"> <h4>Day Band</h4>
-<p>Finishing format, content coming later</p>
+<b>Symphony Band; Bass Clarinet</b>: In 2022 and 2023 we earned a Division Rating II at [MSBOA](https://www.youtube.com/watch?v=Zd1X7nPsM4Q) District Festival. My favorite song we have played is [Danzon No. 2](https://www.youtube.com/watch?v=FeFiOnbKYcc) by Arturo Márquez, with a close second being [Stella Maris](https://www.youtube.com/watch?v=Zd1X7nPsM4Q) by Samuel R. Hazo.
+
+<b>Concert Band; Tenor Sax</b>: I joined Concert Band this year to learn and improve my Tenor Sax skills, as I will be auditioning for the University of Michigan Marching Band on Tenor Sax.
+
 <h4>Small Ensembles</h4>
-<p>Finishing format, content coming later</p>
+
 <h4>Marching Band</h4>
-<p>Finishing format, content coming later</p> </div>
+<p>Finishing format, content coming later</p>
 
 <h2>Swimming</h2>
 
