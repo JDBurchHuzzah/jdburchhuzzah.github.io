@@ -1,5 +1,5 @@
 ---
-title: Test post Number 2
+title: "Test post Number 2"
 layout: post
 date: 2022-10-12 22:44
 image: /assets/images/markdown.jpg
