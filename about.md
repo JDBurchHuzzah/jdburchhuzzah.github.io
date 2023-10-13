@@ -36,6 +36,7 @@ layout: page
 </div>
 
 <h2>Swimming</h2>
+I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.
 
 <h2>Scouts</h2>
 
