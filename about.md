@@ -25,6 +25,7 @@ layout: page
   I am a Captain of the Single Reeds Section in the SLEHS Marching Band, and play Bass Clarinet. Our Marching Band is in the <a href="https://www.themcba.org">MCBA</a> Flight II, and we were state finalists in 2021 and 2022. We are well on our way to being a state finalist again in 2023!<br><br>
   <h4>College Marching Band</h4>
   I am planning on auditioning for the marching band wherever I go to college! I am learning Tenor Sax to play in college marching band!<br><br>
+</div>
 
 <h2>Small Ensembles</h2>
 <div style="margin-left: 25px;">
