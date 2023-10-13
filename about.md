@@ -19,15 +19,20 @@ layout: page
   <h4>Concert Band; Tenor Saxophone</h4>I joined Concert Band this year to learn and improve my Tenor Sax skills, as I will be auditioning for the University of Michigan Marching Band on Tenor Sax.<br><br>
 </div>
 
+<h2>Marching Band</h2>
+<div style="margin-left: 25px;">
+  <h4>High School Marching Band</h4>
+  I am a Captain of the Single Reeds Section in the SLEHS Marching Band, and play Bass Clarinet. Our Marching Band is in the <a href="https://www.themcba.org">MCBA</a> Flight II, and we were state finalists in 2021 and 2022. We are well on our way to being a state finalist again in 2023!<br><br>
+  <h4>College Marching Band</h4>
+  I am planning on auditioning for the marching band wherever I go to college! I am learning Tenor Sax to play in college marching band!<br><br>
+
 <h2>Small Ensembles</h2>
 <div style="margin-left: 25px;">
   <h4>Duets</h4>In 2022, I played a Clarinet and Bass Clarinet duet with a friend at MSBOA District and State Solo and Ensemble, earning a Division I Rating at both events.<br><br>In 2023, I played a Bass Clarinet-Tenor Sax duet (I played Bass Clarinet) with another friend at MSBOA District and State Solo and Ensemble, earning a Division I Rating at both events as well.<br><br>In 2024, I will be playing a Clarinet-Bass Clarinet duet with yet another friend at District Solo and Ensemble, with the hopes of going to states.<br><br>
-  <h4>Clarinet Choir</h4>In Fall 2022, I joined our school sponsored Clarinet Ensemble. We preformed at our school's Winter Concert, Spring Concert, and for a nursing home. We earned a 1 at District Solo and Ensemble, and unfortunately got disqualified at State Solo and Ensemble due to not covering all the parts in the piece; however, we did get glowing comments from the judge! This year, we will be preforming at District (and hopefully State) Solo and Ensemble, as well as various concerts like last year.<br><br>
-  <h4>Sax Choir</h4>In Fall 2023, I joined Sax Choir to keep improving on Tenor Sax! We will be prforming at the same events as Clarinet Choir!<br><br>
+  <h4>Clarinet Choir</h4>In Fall 2022, I joined our school sponsored Clarinet Ensemble. We performed at our school's Winter Concert, Spring Concert, and for a nursing home. We earned a 1 at District Solo and Ensemble, and unfortunately got disqualified at State Solo and Ensemble due to not covering all the parts in the piece; however, we did get glowing comments from the judge! This year, we will be performing at District (and hopefully State) Solo and Ensemble, as well as various concerts like last year.<br><br>
+  <h4>Sax Choir</h4>In Fall 2023, I joined Sax Choir to keep improving on Tenor Sax! We will be performing at the same events as Clarinet Choir!<br><br>
   <h4>Mixed Woodwind Ensemble</h4>Our program is in the process of adding a Woodwind Ensemble as a sucsessor to the late Woodwind Quintet (everybody in it graduated). More details will come later!<br><br>
 </div>
-
-<h2>Marching Band</h2>
 
 <h2>Swimming</h2>
 
