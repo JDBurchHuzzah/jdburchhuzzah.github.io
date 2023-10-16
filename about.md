@@ -6,12 +6,7 @@ layout: page
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
 <center> <p>Hello! I am JD Burch!</p>
-<p>I am a high school senior</p>
-<p>I play Bass Clarinet and Tenor Sax</p>
-<p>I am a captain on the varsity swim team</p>
-<p>I am very active in the Relay FM Members Discord, and subscribe to Connected Pro. I am a very avid listener to most other Relay shows as well.</p>
-<p>I enjoy technology, and have a deep knowledge and interest of Apple</p>
-<p>I am an Eagle Scout and active member of Scouts BSA</p> </center>
+Band - Swim - Apple - Eagle Scout - TTE JASM
 
 <h2>Day Band</h2>
 <div style="margin-left: 25px;">
@@ -49,7 +44,6 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
   <h4>Eagle Scout Project</h4>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.<br><br>
   <h4>Merit Badges: 51</h4>
   <h4>Eagle Palms: 5</h4>
-                 
   <h4>Scout Rank: July 20, 2017</h4>
   <h4>Tenderfoot Rank: February 12, 2018</h4>
   <h4>Second Class Rank: May 21, 2018</h4>
