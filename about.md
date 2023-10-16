@@ -58,3 +58,4 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
 In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.
 
 <h2>Podcasts & Apple</h2>
+I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>.
