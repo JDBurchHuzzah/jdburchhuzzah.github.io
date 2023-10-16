@@ -39,6 +39,13 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
   100 Butterfly: 56:55<br><br>
 </div>
 
+<section>
+  <div class="right">1</div>
+  <p>
+    test test test est sdffjsdlfjsdklfjsdk
+  </p>
+</section>
+
 <h2>Scouts - Youth</h2>
 <div style="margin-left: 25px;">
   <h4>Trail to Eagle - Blue Troop</h4>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!<br><br>
