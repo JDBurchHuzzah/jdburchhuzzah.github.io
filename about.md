@@ -39,9 +39,13 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
   100 Butterfly: 56:55<br><br>
 </div>
 
-<div class="side-by-side">
+<h2>Scouts - Youth</h2>
+<div style="margin-left: 25px;">
+  <h4>Trail to Eagle - Blue Troop</h4>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!<br><br>
+  <h4>Eagle Scout Project</h4>
+  <div class="side-by-side">
     <div class="toleft">
-        <p>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!</p>
+        <p>Eagle Scout Project</h4>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.</p>
     </div>
 
     <div class="toright">
@@ -50,10 +54,6 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
     </div>
 </div>
 
-<h2>Scouts - Youth</h2>
-<div style="margin-left: 25px;">
-  <h4>Trail to Eagle - Blue Troop</h4>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!<br><br>
-  <h4>Eagle Scout Project</h4>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.<br><br>
   <h4>Merit Badges: 51</h4>
   <h4>Eagle Palms: 5</h4>
   <h4>Scout Rank: July 20, 2017</h4>
