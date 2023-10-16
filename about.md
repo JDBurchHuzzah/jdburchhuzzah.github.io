@@ -6,7 +6,8 @@ layout: page
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
 <center> <p>Hello! I am JD Burch!</p>
-Band - Swim - Apple - Eagle Scout - TTE JASM
+Band - Swim - Eagle Scout - Apple - TTE JASM
+</center>
 
 <h2>Day Band</h2>
 <div style="margin-left: 25px;">
