@@ -39,10 +39,6 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
   100 Butterfly: 56:55<br><br>
 </div>
 
-<section>
-  <img src="/assets/images/boyscout.jpg" class="alignright">text text
-</section>
-
 <h2>Scouts - Youth</h2>
 <div style="margin-left: 25px;">
   <section>
