@@ -45,7 +45,7 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
   <h4>Eagle Scout Project</h4>
   <div class="side-by-side">
     <div class="toleft">
-        <div style="margin-left: 50px;"><p>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.</p></div>
+        <div style="margin-left: 50px;"><h4>Eagle Scout Project</h4><p>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.</p></div>
     </div>
 
     <div class="toright">
