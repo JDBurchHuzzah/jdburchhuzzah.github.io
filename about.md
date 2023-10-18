@@ -55,9 +55,10 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
     <p>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.</p><br></div>
 </section>
 
+<div style="margin-left: 25px;">
 <h4>Stats</h4>
 <section>
-  <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:40%; margin: auto 0px;" />
+  <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:37%; margin: auto 0px;" />
   <div style="margin-left: 25px;">
   <p>Merit Badges: 51</p>
   <p>Eagle Palms: 5</p><br>
@@ -68,8 +69,8 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
   <p>Second Class Rank: May 21, 2018</p>
   <p>Tenderfoot Rank: February 12, 2018</p>
   <p>Scout Rank: July 20, 2017</p><br>
-  </div>
 </section>
+</div>
 
 <h2>Scouts - Adult</h2>
 <p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
