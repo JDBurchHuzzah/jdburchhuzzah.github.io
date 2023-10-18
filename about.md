@@ -58,20 +58,20 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
   <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:40%; margin-left:10px; margin-bottom:5px;" />
   <div style="margin-left: 25px;">
   <h4>Stats</h4>
-  <p>Merit Badges: 51</p><br>
-  <p>Eagle Palms: 5</p>
+  <p>Merit Badges: 51</p>
+  <p>Eagle Palms: 5</p><br>
   <p>Eagle Scout Rank: November 1, 2022</p>
   <p>Life Rank: December 9, 2019</p>
   <p>Star Rank: April 15, 2019</p>
   <p>First Class Rank: November 12, 2018</p>
   <p>Second Class Rank: May 21, 2018</p>
   <p>Tenderfoot Rank: February 12, 2018</p>
-  <p>Scout Rank: July 20, 2017</p>
+  <p>Scout Rank: July 20, 2017</p><br>
   </div>
 </section>
 
 <h2>Scouts - Adult</h2>
-</p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p>
+<p></p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p>
 
 <h2>Podcasts & Apple</h2>
-I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>.
+<p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>.</p>
