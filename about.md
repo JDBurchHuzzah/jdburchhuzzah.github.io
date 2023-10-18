@@ -47,14 +47,13 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 <h2>Scouts - Youth</h2> 
 <div style="margin-left: 25px;"> <h4>Trail to Eagle - Blue Troop</h4>
  
-  <p>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at
+  <p>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!</p><br>
+</div>
 <section>
   <img src="/assets/images/eagleproject.jpg" class="alignright" style="max-width:45%; margin-left:10px; margin-bottom:5px;" />
-  TTE!</p>
-</section>
-</div>
   <div style="margin-left: 25px;"> <h4>Eagle Scout Project</h4>
     <p>In the summer of 2022, I completed my Eagle Scout Project. This patio was just under 100 square feet. It took months of planning and around 75 hours of personal service. I fundraised by organizing a can drive during the week of the Fourth of July on my grandma's street (she lives on a lake, so it was a great location). I also got funds from Thrivent Credit Union through a member of my church.</p><br></div>
+</section>
 
 <section>
   <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:40%; margin-left:10px; margin-bottom:5px;" />
