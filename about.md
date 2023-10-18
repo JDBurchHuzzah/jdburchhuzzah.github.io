@@ -46,9 +46,11 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 
 <h2>Scouts - Youth</h2> 
 <div style="margin-left: 25px;"> <h4>Trail to Eagle - Blue Troop</h4>
+ 
+  <p>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at
 <section>
-  <img src="/assets/images/eagleproject.jpg" class="alignright" style="max-width:45%; margin-left:10px; margin-bottom:5px;" /> 
-    <p>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!</p><br>
+  <img src="/assets/images/eagleproject.jpg" class="alignright" style="max-width:45%; margin-left:10px; margin-bottom:5px;" />
+  TTE!</p>
 </section>
 </div>
   <div style="margin-left: 25px;"> <h4>Eagle Scout Project</h4>
@@ -71,7 +73,8 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 </section>
 
 <h2>Scouts - Adult</h2>
-<p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p>
+<p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
 
 <h2>Podcasts & Apple</h2>
 <p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>.</p>
+
