@@ -37,7 +37,7 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 </div>
 
 <h2>Swimming</h2>
-<p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p>
+<p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p><br>
 <div style="margin-left: 25px;">
   <h4>Best Times</h4>
   <p>100 Breastroke: 1:07:62<br>
@@ -71,7 +71,7 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 </section>
 
 <h2>Scouts - Adult</h2>
-<p></p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p>
+<p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p>
 
 <h2>Podcasts & Apple</h2>
 <p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>.</p>
