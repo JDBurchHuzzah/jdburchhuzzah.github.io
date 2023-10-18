@@ -52,7 +52,7 @@ I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 1
     <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:40%; margin-left:10px; margin-bottom:5px;" />
     <div style="margin-left: 25px;">
     <h4>Merit Badges: 51</h4>
-    <h4>Eagle Palms: 5</h4>
+    <h4>Eagle Palms: 5</h4><br>
     <h4>Scout Rank: July 20, 2017</h4>
     <h4>Tenderfoot Rank: February 12, 2018</h4>
     <h4>Second Class Rank: May 21, 2018</h4>
