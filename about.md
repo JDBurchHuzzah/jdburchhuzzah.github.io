@@ -56,9 +56,9 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 </section>
 
 <div style="margin-left: 25px;">
-<h4>Stats</h4>
 <section>
   <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:34%; margin: auto 0px;" />
+  <h4>Stats</h4>
   <p>Merit Badges: 51</p>
   <p>Eagle Palms: 5</p><br>
   <p>Eagle Scout Rank: November 1, 2022</p>
