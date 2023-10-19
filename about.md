@@ -57,7 +57,7 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 
 <div style="margin-left: 25px;">
 <section>
-  <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:34%; margin: auto 0px;" />
+  <img src="/assets/images/boyscout.jpg" class="alignright" style="margin: auto 0px;" />
   <h4>Stats</h4>
   <p>Merit Badges: 51</p>
   <p>Eagle Palms: 5</p><br>
