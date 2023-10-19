@@ -75,5 +75,4 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 <p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
 
 <h2>Podcasts & Apple</h2>
-<p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am also very active in the Relay FM Members discord, where I have met many friends.</p>
-
+<p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am also very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business. 
