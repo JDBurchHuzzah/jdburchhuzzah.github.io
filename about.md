@@ -85,10 +85,11 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 
 <div style="margin-left: 25px;">
 <h4>My Tech Podcasts</h4>
-<p><a href="https://relay.fm/connected">Connected:</a> My favorite podcast, a weekly panel with hosts from across the globe (and lots of japes). Hosted by Myke Hurley, Federico Viticci, and Stephen Hackett.</p>
+<p><a href="https://relay.fm/connected">Connected:</a> My favorite podcast, a weekly panel with hosts from across the globe (and lots of japes). Hosted by Myke Hurley, Federico Viticci, and Stephen Hackett. I subscribe to Connected Pro, which gives me access to the Relay FM Members Discord, where I have met many friends throughout the years!</p>
 <p><a href="https://relay.fm/upgrade">Upgrade:</a> A weekly tech podcast hosted by Jason Snell and Myke Hurley.</p>
 <p><a href="https://atp.fm">Accidental Tech Podcast:</a> Yet another tech podcast, hosted by Marco Arment, John Siracusa, and Casey Liss. Their perspectives are much different than the other two long tech podcasts I have.</p>
 <p><a href="https://relay.fm/clockwise">Clockwise:</a> A weekly 30 minute, fast paced tech podcast that has 2 guests every week and 4 topics. Hosted by Mikah Sargent and Dan Moren.</p>
+<p><a href="https://relay.fm/radar">Under the Radar:</a> This show is 30 mintutes biweekly and hosted by David Smith and Marco Arment. This show discusses all aspects of indie iOS App Development, and even though I am not a developer, it is still very interesting to hear the developers discuss all things regarding how Apple impacts devs.
 <p><a href="https://relay.fm/cortex">Cortex:</a> This podcast isn't all tech, but doesn't really fit elsewhere. Hosted by CGP Grey and Myke Hurley, this podcast discusses their work lives and pretty much anything else they decide to talk about.</p>
 <p><a href="https://relay.fm/downstream">Downstream:</a> This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and Julia Alexander.</p>
 </div>
@@ -109,6 +110,6 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 
 <div style="margin-left: 25px;">
 <h4>My Misc. Podcasts</h4>
+<p><a href="https://rebelforceradio.com">Rebel Force Radio:</a> This podcast, hosted by Jason Swank and Jimmy Mac, goes into extreme depth on all things Star Wars, which is perfect for a Star Wars nerd like me. They make 2hr+ podcast episodes after every single Star Wars episode drops, and they also have a weekly show with more broad Star Wars content.
 <p><a href="https://relay.fm/ungeniused">Ungeniused:</a> A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
 <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
-
