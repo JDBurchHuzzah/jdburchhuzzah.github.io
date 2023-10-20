@@ -85,24 +85,30 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 
 <div style="margin-left: 25px;">
 <h4>My Tech Podcasts</h4>
-<p><a href="https://relay.fm/connected">Connected</a></p>
-<p><a href="https://relay.fm/upgrade">Upgrade</a></p>
-<p><a href="https://atp.fm">Accidental Tech Podcast</a></p>
-<p><a href="https://relay.fm/clockwise">Clockwise</a></p>
-<p><a href="https://relay.fm/cortex">Cortex</a></p>
-<p><a href="https://relay.fm/downstream">Downstream</a></p>
-<p><a href="https://relay.fm/upgrade">Upgrade</a></p><br>
+<p><a href="https://relay.fm/connected">Connected:</a>My favorite podcast, a weekly panel with hosts from across the globe (and lots of japes). Hosted by Myke Hurley, Federico Viticci, and Stephen Hackett.</p>
+<p><a href="https://relay.fm/upgrade">Upgrade:</a>A weekly tech podcast hosted by Jason Snell and Myke Hurley.</p>
+<p><a href="https://atp.fm">Accidental Tech Podcast:</a>Yet another tech podcast, hosted by Marco Arment, John Siracusa, and Casey Liss. Their perspectives are much different than the other two long tech podcasts I have.</p>
+<p><a href="https://relay.fm/clockwise">Clockwise:</a>A weekly 30 minute, fast paced tech podcast that has 2 guests every week and 4 topics. Hosted by Mikah Sargent and Dan Moren.</p>
+<p><a href="https://relay.fm/cortex">Cortex:</a>This podcast isn't all tech, but doesn't really fit elsewhere. Hosted by CGP Grey and Myke Hurley, this podcast discusses their work lives and pretty much anything else they decide to talk about.</p>
+<p><a href="https://relay.fm/downstream">Downstream:</a>This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and Julia Alexander.</p>
 </div>
 
 <h2>Wondery Podcasts</h2>
-<p>I also listen to many Wondery shows, thanks to my Dad. We used to listen to them in the car on the way to school, and now I am hooked. I subscribe to Wondery+. These podcasts single handedly helped earn my 5 in APUSH</p>
+<p>I also listen to many Wondery shows, thanks to my Dad. We used to listen to them in the car on the way to school, and now I am hooked. I subscribe to Wondery+.</p>
 
 <div style="margin-left: 25px;">
 <h4>My Wondery Podcasts</h4>
-<p><a href="https://wondery.com/shows/business-wars/">Business Wars</a></p>
-<p><a href="https://wondery.com/shows/business-movers/">Business Movers</a></p>
-<p><a href="https://wondery.com/shows/american-history-tellers/">American History Tellers</a></p>
-<p><a href="https://wondery.com/shows/american-scandal/">American Scandal</a></p><br>
+<p><a href="https://wondery.com/shows/business-wars/">Business Wars:</a>This show has seasons of 4-6 epidodes detailing market battles between 2 companies. Hosted by David Brown.</p>
+<p><a href="https://wondery.com/shows/business-movers/">Business Movers:</a>This show is similar to Business Wars, except it details the story of just one company through their life. Hosted by Lindsay Graham.</p>
+<p><a href="https://wondery.com/shows/american-history-tellers/">American History Tellers</a>This show has 4-6 episode seasons detailing various aspects of American History. This show got me my 5 in APUSH.</p>
+<p><a href="https://wondery.com/shows/american-scandal/">American Scandal:</a>This podcast is similar to American History Tellers, except it deals with the more uncomfey or bad aspects of American History.</p><br>
 </div>
 
 <h2>Misc. Podcasts</h2>
+<p>I listen to quite a few podcasts on random topics, such as strange Wikipedia entries and defining obscure topics!</p>
+
+<div style="margin-left: 25px;">
+<h4>My Misc. Podcasts</h4>
+<p><a href="https://relay.fm/ungeniused">Ungeniused:</a>A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
+<p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a>This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
+
