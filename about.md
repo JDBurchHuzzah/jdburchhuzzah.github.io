@@ -89,9 +89,10 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 <p><a href="https://relay.fm/upgrade">Upgrade:</a> A weekly tech podcast hosted by Jason Snell and Myke Hurley.</p>
 <p><a href="https://atp.fm">Accidental Tech Podcast:</a> Yet another tech podcast, hosted by Marco Arment, John Siracusa, and Casey Liss. Their perspectives are much different than the other two long tech podcasts I have.</p>
 <p><a href="https://relay.fm/clockwise">Clockwise:</a> A weekly 30 minute, fast paced tech podcast that has 2 guests every week and 4 topics. Hosted by Mikah Sargent and Dan Moren.</p>
-<p><a href="https://relay.fm/radar">Under the Radar:</a> This show is 30 mintutes biweekly and hosted by David Smith and Marco Arment. This show discusses all aspects of indie iOS App Development, and even though I am not a developer, it is still very interesting to hear the developers discuss all things regarding how Apple impacts devs.
+<p><a href="https://relay.fm/radar">Under the Radar:</a> This show is 30 mintutes biweekly and hosted by David Smith and Marco Arment. This show discusses all aspects of indie iOS App Development, and even though I am not a developer, it is still very interesting to hear the developers discuss all things regarding how Apple impacts devs.</p>
 <p><a href="https://relay.fm/cortex">Cortex:</a> This podcast isn't all tech, but doesn't really fit elsewhere. Hosted by CGP Grey and Myke Hurley, this podcast discusses their work lives and pretty much anything else they decide to talk about.</p>
-<p><a href="https://relay.fm/downstream">Downstream:</a> This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and Julia Alexander.</p></div>
+<p><a href="https://relay.fm/downstream">Downstream:</a> This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and Julia Alexander.</p>
+</div>
 
 <h2>Wondery Podcasts</h2>
 <p>I also listen to many Wondery shows, thanks to my Dad. We used to listen to them in the car on the way to school, and now I am hooked. I subscribe to Wondery+.</p>
