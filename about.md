@@ -74,5 +74,32 @@ Band - Swim - Eagle Scout - Apple - TTE JASM
 <h2>Scouts - Adult</h2>
 <p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
 
-<h2>Podcasts & Apple</h2>
-<p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am also very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business. 
+<h2>My Devices</h2>
+<p>Computer: MacBook Pro 13" 2016</p>
+<p>Mobile Phone: iPhone 14 Pro, Space Black with Torras MagSafe case and the Popwallet+ for MagSafe</p>
+<p>Watch: Apple Watch Series 7, Midnight with Midnight Sport Band</p>
+<p>Tablet: iPad Mini 6, Starlight with a no name Amazon Keyboard case and Apple Pencil</p><br>
+
+<h2>Tech Podcasts</h2>
+<p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business.</p><br>
+
+<div style="margin-left: 25px;">
+<h4>My Tech Podcasts</h4>
+<p><a href="https://relay.fm/connected">Connected</a></p>
+<p><a href="https://relay.fm/upgrade">Upgrade</a></p>
+<p><a href="https://atp.fm">Accidental Tech Podcast</a></p>
+<p><a href="https://relay.fm/clockwise">Clockwise</a></p>
+<p><a href="https://relay.fm/cortex">Cortex</a></p>
+<p><a href="https://relay.fm/downstream">Downstream</a></p>
+<p><a href="https://relay.fm/upgrade">Upgrade</a></p><br>
+</div>
+
+<h2>Wondery Podcasts</h2>
+<p>I also listen to many Wondery shows, thanks to my Dad. We used to listen to them in the car on the way to school, and now I am hooked. I subscribe to Wondery+. These podcasts single handedly helped earn my 5 in APUSH</p><br>
+
+<div style="margin-left: 25px;">
+<h4>My Wondery Podcasts</h4>
+<p><a href="https://wondery.com/shows/business-wars/">Business Wars</a></p>
+<p><a href="https://wondery.com/shows/business-movers/">Business Movers</a></p>
+<p><a href="https://wondery.com/shows/american-history-tellers/">American History Tellers</a></p>
+<p><a href="https://wondery.com/shows/american-scandal/">American Scandal</a></p>
