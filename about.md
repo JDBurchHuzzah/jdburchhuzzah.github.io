@@ -6,7 +6,7 @@ layout: page
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
 <center> <p>Hello! I am JD Burch!</p>
-<a href:#band>Band</a>
+<a href:"#band">Band</a>
 </center>
 
 <h2 id="band">Day Band</h2>
