@@ -5,7 +5,7 @@ layout: page
 
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
-<center><p>Hello! I am JD Burch!</p> [Band](#day-band)</center>
+<center><p>Hello! I am JD Burch!</p></center>
 
 ## Day Band
 <div style="margin-left: 25px;">
@@ -111,3 +111,5 @@ layout: page
 <p><a href="https://rebelforceradio.com">Rebel Force Radio:</a> This podcast, hosted by Jason Swank and Jimmy Mac, goes into extreme depth on all things Star Wars, which is perfect for a Star Wars nerd like me. They make 2hr+ podcast episodes after every single Star Wars episode drops, and they also have a weekly show with more broad Star Wars content.
 <p><a href="https://relay.fm/ungeniused">Ungeniused:</a> A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
 <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
+
+[Band](#day-band)
