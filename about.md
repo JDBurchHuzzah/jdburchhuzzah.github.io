@@ -5,10 +5,9 @@ layout: page
 
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
-<center><p>Hello! I am JD Burch!</p></center>
-[Band](#Day-Band)
+<center><p>Hello! I am JD Burch!</p> [Band](#day-band)</center>
 
-<h2>Day Band</h2>
+## Day Band
 <div style="margin-left: 25px;">
   <h4>Symphony Band; Bass Clarinet</h4>
   <p>In 2022 and 2023 we earned a Division Rating II at <a href="https://www.youtube.com/watch?v=Zd1X7nPsM4Q">MSBOA</a> District Festival. My favorite song we have played is <a href="https://www.youtube.com/watch?v=FeFiOnbKYcc">Danzon No. 2</a> by Arturo Márquez, with a close second being <a href="https://www.youtube.com/watch?v=Zd1X7nPsM4Q">Stella Maris</a> by Samuel R. Hazo.</p><br>
