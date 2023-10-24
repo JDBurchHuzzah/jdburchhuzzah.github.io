@@ -5,15 +5,12 @@ layout: page
 
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
-<center>
   <p>Hello! I am JD Burch!</p>
   [Band](#day-band)
   [Swim](#swimming)
   [Scouts](#scouts---youth)
   [Tech](#my-devices)
   [Podcasts](#tech-podcasts)
-  
-</center>
 
 ## Day Band
 <div style="margin-left: 25px;">
