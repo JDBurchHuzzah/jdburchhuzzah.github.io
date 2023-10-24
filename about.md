@@ -5,7 +5,15 @@ layout: page
 
 <img src="/assets/images/profilepfp.jpg" alt="test">
 
-<center><p>Hello! I am JD Burch!</p></center>
+<center>
+  <p>Hello! I am JD Burch!</p>
+  [Band](#day-band)
+  [Swim](#swimming)
+  [Scouts](#scouts---youth)
+  [Tech](#my-devices)
+  [Podcasts](#tech-podcasts)
+  
+</center>
 
 ## Day Band
 <div style="margin-left: 25px;">
@@ -34,7 +42,7 @@ layout: page
   <h4>Mixed Woodwind Ensemble</h4><p>Our program is in the process of adding a Woodwind Ensemble as a sucsessor to the late Woodwind Quintet (everybody in it graduated). More details will come later!</p><br>
 </div>
 
-<h2>Swimming</h2>
+## Swimming
 <p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p>
 <div style="margin-left: 25px;">
   <h4>Best Times</h4>
@@ -42,7 +50,7 @@ layout: page
   100 Butterfly: 56:55</p><br>
 </div>
 
-<h2>Scouts - Youth</h2> 
+## Scouts - Youth
 <div style="margin-left: 25px;"> <h4>Trail to Eagle - Blue Troop</h4>
  
   <p>In 2019, I joined Blue Troop at Trail to Eagle. Trail to Eagle is a very unique summer camp that takes place once a week. Scouts from across Michigan and the Country are seperated into one of eight differnet troops named after a color. I was in Blue Troop for 5 years as a youth. In 2021, I was asked to be a Junior Assistant Scoutmaster. I served as a JASM for two years. Trail to Eagle 2022 was one of the best weeks of my life! I earned over 25 merit badges over the 4 years I was at TTE!</p><br>
@@ -72,13 +80,13 @@ layout: page
 <h2>Scouts - Adult</h2>
 <p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
 
-<h2>My Devices</h2>
+## My Devices
 <p>Computer: MacBook Pro 13" 2016</p>
 <p>Mobile Phone: iPhone 14 Pro, Space Black with Torras MagSafe case and the Popwallet+ for MagSafe</p>
 <p>Watch: Apple Watch Series 7, Midnight with Midnight Sport Band</p>
 <p>Tablet: iPad Mini 6, Starlight with a no name Amazon Keyboard case and Apple Pencil</p><br>
 
-<h2>Tech Podcasts</h2>
+## Tech Podcasts
 <p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business.</p>
 
 <div style="margin-left: 25px;">
@@ -112,4 +120,3 @@ layout: page
   <p><a href="https://relay.fm/ungeniused">Ungeniused:</a> A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
   <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
 </div>
-[Band](#day-band)
