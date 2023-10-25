@@ -7,6 +7,9 @@ layout: page
 
 <div style="text-align: center;">
   <p>Hello! I am JD Burch!</p>
+  <p><a href="#day-band">Band</a></p>
+  <p><a href="#swim">Swim</p>
+  
 </div>
 
 <a id="day-band">
@@ -38,7 +41,9 @@ layout: page
   <h4>Mixed Woodwind Ensemble</h4><p>Our program is in the process of adding a Woodwind Ensemble as a sucsessor to the late Woodwind Quintet (everybody in it graduated). More details will come later!</p><br>
 </div>
 
-## Swimming
+<a id="Swim">
+  <h2>Swimming</h2>
+
 <p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p>
 <div style="margin-left: 25px;">
   <h4>Best Times</h4>
@@ -116,5 +121,3 @@ layout: page
   <p><a href="https://relay.fm/ungeniused">Ungeniused:</a> A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
   <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
 </div>
-
-<a href="#day-band">test test 123</a>
