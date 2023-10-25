@@ -13,6 +13,7 @@ layout: page
 
 <a id="day-band">
   <h2>Day Band</h2>
+</a>
 
 <div style="margin-left: 25px;">
   <h4>Symphony Band; Bass Clarinet</h4>
@@ -42,6 +43,7 @@ layout: page
 
 <a id="Swim">
   <h2>Swimming</h2>
+</a>
 
 <p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p>
 <div style="margin-left: 25px;">
