@@ -10,8 +10,7 @@ layout: page
 </div>
 
 <a id="day-band">
-  <h2>Day Band</h2>
-</a>
+  <h2>Day Band</h2> </a>
 
 <div style="margin-left: 25px;">
   <h4>Symphony Band; Bass Clarinet</h4>
