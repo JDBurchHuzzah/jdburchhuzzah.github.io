@@ -14,7 +14,7 @@ layout: page
   [Podcasts](#tech-podcasts)
 </div>
 
-## Day Band
+<a id="day-band"><h2>Day Band</h2></a>
 <div style="margin-left: 25px;">
   <h4>Symphony Band; Bass Clarinet</h4>
   <p>In 2022 and 2023 we earned a Division Rating II at <a href="https://www.youtube.com/watch?v=Zd1X7nPsM4Q">MSBOA</a> District Festival. My favorite song we have played is <a href="https://www.youtube.com/watch?v=FeFiOnbKYcc">Danzon No. 2</a> by Arturo Márquez, with a close second being <a href="https://www.youtube.com/watch?v=Zd1X7nPsM4Q">Stella Maris</a> by Samuel R. Hazo.</p><br>
@@ -119,3 +119,5 @@ layout: page
   <p><a href="https://relay.fm/ungeniused">Ungeniused:</a> A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
   <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
 </div>
+
+<a href="day-band">test test 123</a>
