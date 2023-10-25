@@ -7,11 +7,6 @@ layout: page
 
 <div style="text-align: center;">
   <p>Hello! I am JD Burch!</p>
-  [Band](#day-band)
-  [Swim](#swimming)
-  [Scouts](#scouts---youth)
-  [Tech](#my-devices)
-  [Podcasts](#tech-podcasts)
 </div>
 
 <a id="day-band"><h2>Day Band</h2></a>
@@ -120,4 +115,4 @@ layout: page
   <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p>
 </div>
 
-<a href="day-band">test test 123</a>
+<a href="#day-band">test test 123</a>
