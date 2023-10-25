@@ -11,9 +11,7 @@ layout: page
   <p><a href="#swim">Swim</a></p>
 </div>
 
-<a id="day-band">
-  Day Band
-</a>
+<h2 id="day-band">Day Band</h2>
 
 <div style="margin-left: 25px;">
   <h4>Symphony Band; Bass Clarinet</h4>
