@@ -7,8 +7,10 @@ layout: page
 
 <div style="text-align: center;">
   <p>Hello! I am JD Burch!</p>
-  <p><a href="#day-band">Band</a></p>
-  <p><a href="#swim">Swim</a></p>
+  <h2>Quick Jumps</h2>
+  <h4><a href="#day-band">Band</a></h4>
+  <h4><a href="#swim">Swim</a></h4>
+  
 </div>
 
 <h2 id="day-band">Day Band</h2>
