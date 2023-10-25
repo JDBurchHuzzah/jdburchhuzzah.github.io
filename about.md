@@ -39,7 +39,7 @@ layout: page
   <h4>Mixed Woodwind Ensemble</h4><p>Our program is in the process of adding a Woodwind Ensemble as a sucsessor to the late Woodwind Quintet (everybody in it graduated). More details will come later!</p><br>
 </div>
 
-<a id="Swim"> <h2>Swimming</h2>
+<h2 id="swim">Swimming</h2>
 
 <p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p>
 <div style="margin-left: 25px;">
