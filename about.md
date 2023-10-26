@@ -116,6 +116,13 @@ layout: page
   <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with vaious subjects.</p><br>
 </div>
 
+<h2>St. Jude's Fundraisers</h2>
+<div style="margin-left: 25px;">
+  <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitlhas a large fundraiser for St. Jude's Children's Research Hospital. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
+  <p>In 2022, they opened the fundraiser up for individual community members to have their own sub-campaigns. I started a campaign, and in my campaign, if somebody donated $10 or more, I would mow their name into a lawn before cutting all the grass. I would dedicate that lawn to them and donate half of the money I earned from mowing that lawn. My fundraiser raised $625. The link to the fundraiser is https://jdburch.com/2022.</p>
+  <p>During September 2023, I ran a similar campaign with Relay FM again. This year, I donated my total earnings for 1 lawn for every $200 raised (up to $1000 raised). My campaign raised $1,521.01, smashing my total last near by nearly 3x. I am so proud of how much I have raised and I am incredibly impressed with the entire Relay FM community</p>
+</div>
+
 <h2 id="tech">My Devices</h2>
 <p>Computer: MacBook Pro 13" 2016</p>
 <p>Mobile Phone: iPhone 14 Pro, Space Black with Torras MagSafe case and the Popwallet+ for MagSafe</p>
