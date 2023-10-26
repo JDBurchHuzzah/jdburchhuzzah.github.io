@@ -3,16 +3,15 @@ title: About
 layout: page
 ---
 
-<img src="/assets/images/profilepfp.jpg" alt="test">
+<img src="/assets/images/profilepfp.jpg" alt="JD Burch">
 
 <div style="text-align: center;">
-  <h1>Hello! I am JD Burch!</h1>
   <h2>Quick Jumps</h2>
-  <h3><a href="#day-band">Band</a></h3>
-  <h3><a href="#swim">Swim</a></h3>
-  <h3><a href="#scouts">Scouts</a></h3>
-  <h3><a href="#podcasts">Podcasts</a></h3>
-  <h3><a href="#tech">My Devices</a></h3>
+  <h4><a href="#day-band">Band</a></h4>
+  <h4><a href="#swim">Swim</a></h4>
+  <h4><a href="#scouts">Scouts</a></h4>
+  <h4><a href="#podcasts">Podcasts</a></h4>
+  <h4><a href="#tech">My Devices</a></h4>
 </div>
 
 <h2 id="day-band">Day Band</h2>
