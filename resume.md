@@ -1,5 +1,5 @@
 ---
-title: Sub
+title: Resume
 layout: page
 ---
 
