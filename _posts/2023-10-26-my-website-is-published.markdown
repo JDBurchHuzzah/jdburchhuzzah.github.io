@@ -2,7 +2,7 @@
 title: "My Website is Published!"
 layout: post
 date: 2023-10-26 08:57
-image: /assets/images/profilepfp.jpg
+image: /assets/images/header10:27.png
 headerImage: false
 star: false
 category: blog
