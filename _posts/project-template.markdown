@@ -1,7 +1,7 @@
 ---
 title: "jdburch.com"
 layout: post
-date: 2023-10-16 22:10
+date: 2023-10-26 22:10
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
