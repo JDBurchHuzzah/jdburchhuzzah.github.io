@@ -3,7 +3,7 @@ title: "My Website is Published!"
 layout: post
 date: 2023-10-26 08:57
 image: /assets/images/header10:27.png
-headerImage: false
+headerImage: true
 star: false
 category: blog
 description: A short post about the creation of this website.
