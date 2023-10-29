@@ -10,7 +10,7 @@ description: A short post about the creation of this website.
 ---
 
 ## jdburch.com
-I am very happy and proud to be releasing this website. This website is an HTML Github Pages site with a (very heavily modified by me) Jekyll theme. Proir to this experience, I had no clue at all how to program, but I jumped into HTML with both feet first and I am very proud of it! Thanks so much to my friends Warren, Matt C, and most especially [Tony](https://tonyscida.com) for helping me figure this project out, suggest tips, and even help me write snippets of code. I really appreciate it and this website would not have been a reality without it!
+I am very happy and proud to be releasing this website. This website is an HTML Github Pages site with a (very heavily modified by me) Jekyll theme. Prior to this experience, I had no clue at all how to program, but I jumped into HTML with both feet first and I am very proud of it! Thanks so much to my friends Warren, Matt C, and most especially [Tony](https://tonyscida.com) for helping me figure this project out, suggest tips, and even help me write snippets of code. I really appreciate it and this website would not have been a reality without it!
 
 
 ## Buying the Domain
