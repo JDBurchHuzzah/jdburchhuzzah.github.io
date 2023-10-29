@@ -11,7 +11,7 @@ category: project
 externalLink: false
 ---
 
-jdburch.com V1 is now published and my first major project. Details about my expirience can be found in [my blog post about it.](https://jdburch.com/my-website-is-published/)
+jdburch.com V1 is now published and my first major project. Details about my experience can be found in [my blog post about it.](https://jdburch.com/my-website-is-published/)
 
 This website has an about page, a blog with Jekyll Pagination, a projects page for now. Later, when I need a resume, I can enable a resume page as well. There are options for many other pages as well, which I will dabble with. 
 
