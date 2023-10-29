@@ -14,7 +14,7 @@ I am very happy and proud to be releasing this website. This website is an HTML 
 
 
 ## Buying the Domain
-I bought jdburch.com in August. I used it for my [St. Jude's Campaign](https://jdburch.com/2023), but once the funraiser was over, I decided I wanted to do more with it.
+I bought jdburch.com in August. I used it for my [St. Jude's Campaign](https://jdburch.com/2023), but once the fundraiser was over, I decided I wanted to do more with it.
 
 
 ## First Steps
