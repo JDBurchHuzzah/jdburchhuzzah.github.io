@@ -27,7 +27,7 @@ layout: page
 <h2>Marching Band</h2>
 <div style="margin-left: 25px;">
   <h4>High School Marching Band</h4>
-  <p>I am a Captain of the Single Reeds Section in the SLEHS Marching Band, and play Bass Clarinet. Our marching band is in the <a href="https://www.themcba.org">MCBA</a> Flight II, and we were state finalists in 2021 and 2022. We are well on our way to being a state finalist again in 2023!</p><br>
+  <p>I am a Captain of the Single Reeds Section in the SLEHS Marching Band, and play Bass Clarinet. Our marching band is in the <a href="https://www.themcba.org">MCBA</a> Flight II, and we were state finalists in 2021, 2022, and 2023</p><br>
   <h4>College Marching Band</h4>
   <p>I am planning on auditioning for the marching band wherever I go to college! I am learning Tenor Sax to play in college marching band!</p><br>
 </div>
@@ -40,7 +40,6 @@ layout: page
   <p>In Fall 2022, I joined our school sponsored Clarinet Ensemble. We performed at our school's Winter Concert, Spring Concert, and for a nursing home. We earned a 1 at District Solo and Ensemble, and unfortunately got disqualified at State Solo and Ensemble due to not covering all the parts in the piece; however, we did get glowing comments from the judge! This year, we will be performing at District (and hopefully State) Solo and Ensemble, as well as various concerts like last year.</p><br>
   <h4>Sax Choir</h4>
   <p>In Fall 2023, I joined Sax Choir to keep improving on Tenor Sax! We will be performing at the same events as Clarinet Choir!</p><br>
-  <h4>Mixed Woodwind Ensemble</h4><p>Our program is in the process of adding a Woodwind Ensemble as a sucsessor to the late Woodwind Quintet (everybody in it graduated). More details will come later!</p><br>
 </div>
 
 <h2 id="swim">Swimming</h2>
@@ -122,6 +121,11 @@ layout: page
   <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitlhas a large fundraiser for St. Jude's Children's Research Hospital. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
   <p>In 2022, they opened the fundraiser up for individual community members to have their own sub-campaigns. I started a campaign, and in my campaign, if somebody donated $10 or more, I would mow their name into a lawn before cutting all the grass. I would dedicate that lawn to them and donate half of the money I earned from mowing that lawn. My fundraiser raised $625. The link to the fundraiser is https://jdburch.com/2022.</p>
   <p>During September 2023, I ran a similar campaign with Relay FM again. This year, I donated my total earnings for 1 lawn for every $200 raised (up to $1000 raised). My campaign raised $1,521.01, smashing my total last near by nearly 3x. I am so proud of how much I have raised and I am incredibly impressed with the entire Relay FM community</p><br>
+</div>
+
+<h2 id="ranger">Junior Ranger Program</h2>
+<div style="margin-left: 25px;">
+  <p>The Junior Ranger Program is a program at <a href="https://nps.gov">National Park Sites</a> that grants kids more opportunities to participate and learn about their National Parks. You complete a series of activities about the park in a workbook, and then show the completed activities to a Park Ranger. From there, you earn a Junior Ranger Badge and are a Junior Ranger of that National Park Site. I am a Junior Ranger at over 250 NPS Sites across the nation.</p>
 </div>
 
 <h2 id="tech">My Devices</h2>
