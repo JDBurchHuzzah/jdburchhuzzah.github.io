@@ -9,7 +9,7 @@ category: blog
 description: My experience with the audition process and getting into the MSBOA All-State Band
 ---
 
-<h1>I got accepted into All-State?!?!</h1> <img src="/assets/images/contra.jpg" class="alignright" style="max-width:40%; margin: auto 0px;" />
+<h1>I got accepted into All-State?!</h1> <img src="/assets/images/contra.jpg" class="alignright" style="max-width:45%; margin: auto 0px;" />
 <p>I was sitting in my third hour, working on a research paper, minding my own business, when my band director pulled me out of class. I thought I was in trouble for something. He asked me to check my email. I was very confused, as I am always on top of my email, and had received nothing of note recently. Regardless, I checked it, but nothing was there. He was just as confused as I was, but then he told me the reason he pulled me out of class. He said that it should have been in my email, but since it wasn't, he had the honor of congratulating me on getting into the MSBOA All-State Band! I was (and still am) thrilled, amazed, and unbelievably excited to have gotten in to All-State</p>
 
 # What is All-State?
