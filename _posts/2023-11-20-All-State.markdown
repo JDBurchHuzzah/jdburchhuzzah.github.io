@@ -9,7 +9,7 @@ category: blog
 description: My experience with the audition process and getting into the MSBOA All-State Band
 ---
 <center>
- <img src="/assets/images/contrabass.jpg" style="max-width:50%; margin: auto 0px;" /> 
+ <img src="/assets/images/contrabass.jpg" style="max-width:35%; margin: auto 0px;" /> 
 </center>
 
  <h1>I got accepted into All-State?!</h1>
