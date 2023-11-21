@@ -15,7 +15,7 @@ description: My experience with the audition process and getting into the MSBOA 
     </div>
 
     <div class="toright">
-        <img class="image" src="/assets/images/contrabass.jpg" style="max-width:30%; margin: auto>
+        <img class="image" src="/assets/images/contrabass.jpg" style="max-width:30%; margin: auto">
     </div>
 </div>
 
