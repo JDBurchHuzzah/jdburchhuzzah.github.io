@@ -1,5 +1,5 @@
 ---
-title: "All-State Band"
+title: "All-State Auditions and Results"
 layout: post
 date: 2023-11-21
 image: /assets/images/AllState.jpg
