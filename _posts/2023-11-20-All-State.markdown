@@ -3,7 +3,7 @@ title: "All-State Band"
 layout: post
 date: 2023-11-21
 image: /assets/images/AllState.jpg
-headerImage: true
+headerImage: false
 star: false
 category: blog
 description: My experience with the audition process and getting into the MSBOA All-State Band
