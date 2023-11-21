@@ -26,7 +26,7 @@ layout: page
 
 <h2>Honors Bands & All state</h2>
 <p>I will be participating in the MSBOA District 4 Honors Band for the second year that it's been back since Covid. I am the first chair Bass Clarinet, and will play Contrabass Clarinet for applicable songs!</p>
-<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most silled Contrabass Clarinetist across the state!</p>
+<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most silled Contrabass Clarinetist across the state!</p><br>
 
 <h2>Marching Band</h2>
 <div style="margin-left: 25px;">
