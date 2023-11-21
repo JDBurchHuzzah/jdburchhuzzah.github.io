@@ -9,15 +9,17 @@ category: blog
 description: My experience with the audition process and getting into the MSBOA All-State Band
 ---
 
+<p>
 <div class="side-by-side">
     <div class="toleft">
-        <p>I was sitting in my third hour, working on a research paper, minding my own business, when my band director pulled me out of class. I thought I was in trouble for something. He asked me to check my email. I was very confused, as I am always on top of my email, and had received nothing of note recently. Regardless, I checked it, but nothing was there. He was just as confused as I was, but then he told me the reason he pulled me out of class. He said that it should have been in my email, but since it wasn't, he had the honor of congratulating me on getting into the MSBOA All-State Band! I was (and still am) thrilled, amazed, and unbelievably excited to have gotten in to All-State.</p>
+        I was sitting in my third hour, working on a research paper, minding my own business, when my band director pulled me out of class. I thought I was in trouble for something. He asked me to check my email. I was very confused, as I am always on top of my email, and had received nothing of note recently. Regardless, I checked it, but nothing was there. He was just as confused as I was, but then he told me the reason he pulled me out of class. He said that it should have been in my email, but since it wasn't, he had the honor of congratulating me on getting into the MSBOA All-State Band! I was (and still am) thrilled, amazed, and unbelievably excited to have gotten in to All-State.
     </div>
 
     <div class="toright">
         <img class="image" src="/assets/images/contrabass.jpg" style="max-width:30%; margin: auto">
     </div>
 </div>
+</p>
 
 # What is All-State?
 <p>The MSBOA All-State Band is an incredibly talented group of musicians. Every high school musician across the state has the option of auditioning to be in this band. Auditions are 100% blind, with your only identifying trait being your ID Number. The judges know nothing about you, to keep the auditions anonymous. A group of judges listens to every single audition. It is a long process. About a month after auditioning, results are posted. The amount of people per instrument varies, but there are usually 3-4 Bass Clarinets, and usually 1 Contrabass Clarinet each year. I auditioned on both Bass Clarinet and Contrabass Clarinet</p>
