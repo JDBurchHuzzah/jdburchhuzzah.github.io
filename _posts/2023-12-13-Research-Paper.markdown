@@ -11,8 +11,6 @@ category: project
 externalLink: false
 ---
 
-This research paper is an evaluation of the Electoral College in America, and why it is no longer necessary in today's world. This paper was written over the course of 3 weeks, with numerous drafts and edits. The graded assignment required and abstract, 3 counterarguments with refutations, a conclusion, a works cited page, and survey results copied. Beyond the requirements, there is a contextual history section as well as an evaluation a current measure to subvert the Electoral College. This paper is written in APA 7th Edition format.
+<p>This 24 page research paper is an evaluation of the Electoral College in America, and why it is no longer necessary in today's world. This paper was written over the course of 3 weeks, with numerous drafts and edits. The graded assignment required an abstract, 3 counter arguments with refutations, a conclusion, a works cited page, and survey results copied. Beyond the requirements, there is a contextual history section as well as an evaluation of a current measure to subvert the Electoral College. This paper is written in APA 7th Edition format.</p>
 
-<div>
-  <object type="application/pdf" data="/assets/Paper.pdf" width="600" height="700"/>
-</div>
+<h1 href="/assets/Paper.pdf">The Electoral College is No Longer Necessary in America</h1>
