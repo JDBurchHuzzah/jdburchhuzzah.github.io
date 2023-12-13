@@ -2,7 +2,6 @@
 title: "The Eletoral College is No Longer Necessary in America"
 layout: post
 date: 2023-12-13 10:49
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
