@@ -17,6 +17,9 @@ layout: page
 
 <h2 id="day-band">Day Band</h2>
 
+<p>I am a senior at South Lyon East High School. I like to challenge myself in school by taking rigorous courses and maintaining great grades. I will be attending the University of Michigan to study Business in 2024. The University of Michigan has been my goal for years, and I am thrilled to study there, and  I plan to join the Marching Band. My activities and hobbies are detailed below.
+</p>
+
 <div style="margin-left: 25px;">
   <h4>Symphony Band; Bass Clarinet</h4>
   <p>In 2022 and 2023 we earned a Division Rating II at <a href="https://www.youtube.com/watch?v=Zd1X7nPsM4Q">MSBOA</a> District Festival. My favorite song we have played is <a href="https://www.youtube.com/watch?v=FeFiOnbKYcc">Danzon No. 2</a> by Arturo Márquez, with a close second being <a href="https://www.youtube.com/watch?v=Zd1X7nPsM4Q">Stella Maris</a> by Samuel R. Hazo.</p><br>
