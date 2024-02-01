@@ -25,15 +25,15 @@ layout: page
 </div>
 
 <h2>Honors Bands & All state</h2>
-<p>I will be participating in the MSBOA District 4 Honors Band for the second year that it's been back since Covid. I am the first chair Bass Clarinet, and will play Contrabass Clarinet for applicable songs!</p>
-<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most skilled Contrabass Clarinetist across the state! You can read about my All-State audition <a href="https://jdburch.com/All-State/">here</a>.</p><br>
+<p>I am the First Chair Bass Clarinetest for the MSBOA District 4 Honors Band. I have participated in this honors band since it's return from Covid.</p>
+<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most skilled Contrabass Clarinetist across the state! You can read about my All-State audition <a href="https://jdburch.com/All-State/">here. A blog post about my All-State experience is in the works</a>.</p><br>
 
 <h2>Marching Band</h2>
 <div style="margin-left: 25px;">
   <h4>High School Marching Band</h4>
   <p>I am a Captain of the Single Reeds Section in the SLEHS Marching Band, and play Bass Clarinet. Our marching band is in the <a href="https://www.themcba.org">MCBA</a> Flight II, and we were state finalists in 2021, 2022, and 2023</p><br>
   <h4>College Marching Band</h4>
-  <p>I am planning on auditioning for the marching band wherever I go to college! I am learning Tenor Sax to play in college marching band!</p><br>
+  <p>I am planning on auditioning for the Michigan Marching Band in June. I am learning Tenor Sax to play in college marching band!</p><br>
 </div>
 
 <h2>Small Ensembles</h2>
