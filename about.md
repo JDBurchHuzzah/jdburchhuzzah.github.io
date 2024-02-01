@@ -29,7 +29,7 @@ layout: page
 
 <h2>Honors Bands & All state</h2>
 <p>I am the First Chair Bass Clarinetest for the MSBOA District 4 Honors Band. I have participated in this honors band since it's return from Covid.</p>
-<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most skilled Contrabass Clarinetist across the state! You can read about my All-State audition <a href="https://jdburch.com/All-State/">here. A blog post about my All-State experience is in the works</a>.</p><br>
+<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most skilled Contrabass Clarinetist across the state! You can read about my All-State audition <a href="https://jdburch.com/All-State/">here</a>. A blog post about my All-State experience is in the works!</p><br>
 
 <h2>Marching Band</h2>
 <div style="margin-left: 25px;">
