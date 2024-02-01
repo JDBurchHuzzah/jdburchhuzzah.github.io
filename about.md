@@ -139,4 +139,4 @@ layout: page
 <p>Computer: MacBook Air 15"</p>
 <p>Mobile Phone: iPhone 14 Pro, Space Black with Torras MagSafe case and the Popwallet+ for MagSafe</p>
 <p>Watch: Apple Watch Series 7 Midnight, with Midnight Sport Band</p>
-<p>Tablet: iPad Mini 6, Starlight with a no name Amazon Keyboard case and Apple Pencil</p>
+<p>Tablet: iPad Mini 6 Starlight, with a no-name Amazon Keyboard case and Apple Pencil</p>
