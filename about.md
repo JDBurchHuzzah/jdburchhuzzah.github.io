@@ -5,7 +5,7 @@ layout: page
 
 <img src="/assets/images/profilepfp.jpg" alt="JD Burch">
 
-<center><p>I am a senior at South Lyon East High School. I like to challenge myself in school by taking rigorous courses and maintaining great grades. I will be attending the University of Michigan to study Business in 2024. The University of Michigan has been my goal for years, and I am thrilled to study there, and  I plan to join the Marching Band. My activities and hobbies are detailed below.
+<center><p>I am a senior at South Lyon East High School. I like to challenge myself in school by taking rigorous courses and maintaining great grades. I will be attending the University of Michigan to study Business in 2024. The University of Michigan has been my goal for years, and I am thrilled to study there. I plan to join the Marching Band. My current activities and hobbies are detailed below.
 </p></center>
 
 <div style="text-align: center;">
