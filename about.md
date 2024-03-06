@@ -26,7 +26,7 @@ layout: page
 
 <h2>Honors Bands & All state</h2>
 <p>I am the First Chair Bass Clarinetest for the MSBOA District 4 Honors Band. I have participated in this honors band since it's return from Covid.</p>
-<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most skilled Contrabass Clarinetist across the state! You can read about my All-State audition <a href="https://jdburch.com/All-State/">here</a>. A blog post about my All-State experience is in the works!</p><br>
+<p>I also was accepted into the MSBOA All-State Band! This required a ridiculously hard audition, and I was auditioning against musicians across the state! I was accepted into the All-State Band on Contrabass Clarinet, and am first chair! This means I am the most skilled Contrabass Clarinetist in the state!.</p><br>
 
 <h2>Marching Band</h2>
 <div style="margin-left: 25px;">
@@ -39,20 +39,20 @@ layout: page
 <h2>Small Ensembles</h2>
 <div style="margin-left: 25px;">
   <h4>Duets</h4>
-  <p>In 2022, I played in a Clarinet and Bass Clarinet duet with a friend at MSBOA District and State Solo and Ensemble, earning a Division I Rating at both events.<br><br>In 2023, I played in a Bass Clarinet-Tenor Sax duet (I played Bass Clarinet) with another friend at MSBOA District and State Solo and Ensemble, earning a Division I Rating at both events as well.<br><br>In 2024, I will be playing in a Clarinet-Bass Clarinet duet with yet another friend at District Solo and Ensemble, with the hopes of going to states.</p><br>
+  <p>In 2022, I played in a Clarinet and Bass Clarinet duet with a friend at MSBOA District and State Solo and Ensemble, earning a Division I Rating at both events.<br><br>In 2023, I played in a Bass Clarinet-Tenor Sax duet (I played Bass Clarinet) with another friend at MSBOA District and State Solo and Ensemble, earning a Division I Rating at both events as well.<br><br>In 2024, I played in a Clarinet-Bass Clarinet duet with yet another friend at District Solo and Ensemble. After a brief debacle that almost resulted in disqualification, we did end up earning a Division 1 Rating and going to State Solo and Ensemble.</p><br>
   <h4>Clarinet Choir</h4>
-  <p>In Fall 2022, I joined our school sponsored Clarinet Ensemble. We performed at our school's Winter Concert, Spring Concert, and for a nursing home. We earned a 1 at District Solo and Ensemble, and unfortunately got disqualified at State Solo and Ensemble due to not covering all the parts in the piece; however, we did get glowing comments from the judge! This year, we will be performing at District (and hopefully State) Solo and Ensemble, as well as various concerts like last year.</p><br>
+  <p>In Fall 2022, I joined our school sponsored Clarinet Ensemble. We performed at our school's Winter Concert, Spring Concert, and for a nursing home. We earned a 1 at District Solo and Ensemble, and unfortunately got disqualified at State Solo and Ensemble due to not covering all the parts in the piece; however, we did get glowing comments from the judge! This year, we preformed at District Solo and Ensemble, earning a 1 and thus going to States, as well as various concerts like last year.</p><br>
   <h4>Sax Choir</h4>
-  <p>In Fall 2023, I joined Sax Choir to keep improving on Tenor Sax! We will be performing at the same events as Clarinet Choir!</p><br>
+  <p>In Fall 2023, I joined Sax Choir to keep improving on Tenor Sax! We will be performing at the same events as Clarinet Choir! We also earned a 1 at District Solo and Ensemble, and will be preforming at State Solo and Ensemble.</p><br>
 </div>
 
 <h2 id="swim">Swimming</h2>
 
-<p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school.</p>
+<p>I am a Captain on the South Lyon Varsity Swim and Dive Team. I mainly swim the 100 Breastroke and the 100 Butterfly. I have been Varsity all 4 years of high school. In 2024, I made the MHSAA Division 1 State Cut in the 100 Butterfly, and will be competeing on March 8 and 9 in the 100 Butterfly and the 200 Medley Relay at States!</p>
 <div style="margin-left: 25px;">
   <h4>Best Times</h4>
-  <p>100 Breastroke: 1:07:62<br>
-  100 Butterfly: 56:55</p><br>
+  <p>100 Breastroke: 1:03:92<br>
+  100 Butterfly: 54:77</p><br>
 </div>
 
 <h2 id="scouts">Scouts - Youth</h2>
