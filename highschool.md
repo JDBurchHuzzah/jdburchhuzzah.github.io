@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: High School
 layout: page
 ---
 
