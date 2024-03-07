@@ -3,8 +3,6 @@ title: High School
 layout: page
 ---
 
-<img src="/assets/images/profilepfp.jpg" alt="JD Burch">
-
 <div style="text-align: center;">
   <h2>Quick Jumps</h2>
   <h4><a href="#day-band">Band</a></h4>
