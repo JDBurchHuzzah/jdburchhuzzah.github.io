@@ -13,6 +13,9 @@ layout: page
   <h4><a href="#tech">My Devices</a></h4>
 </div>
 
+<h2>Scouts - Adult</h2>
+<p>In 2024, I returned to Trail to Eagle as an Assistant Scoutmaster for Blue Troop, and a camp medical officer certified by the American Red Cross. I had a fantastic time, and will continue to return.</p><br>
+
 <h2 id="scouts">Scouts - Youth</h2>
 <div style="margin-left: 25px;"> <h4>Trail to Eagle - Blue Troop</h4>
  
@@ -40,9 +43,6 @@ layout: page
 </section>
 </div>
 
-<h2>Scouts - Adult</h2>
-<p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
-
 <h2 id="podcasts">Tech Podcasts</h2>
 <p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business.</p>
 
@@ -51,7 +51,6 @@ layout: page
 <p><a href="https://relay.fm/connected">Connected:</a> My favorite podcast, a weekly panel with hosts from across the globe (and lots of japes). Hosted by Myke Hurley, Federico Viticci, and Stephen Hackett. I subscribe to Connected Pro, which gives me access to the Relay FM Members Discord, where I have met many friends throughout the years!</p>
 <p><a href="https://relay.fm/upgrade">Upgrade:</a> A weekly tech podcast hosted by Jason Snell and Myke Hurley.</p>
 <p><a href="https://atp.fm">Accidental Tech Podcast:</a> Yet another tech podcast, hosted by Marco Arment, John Siracusa, and Casey Liss. Their perspectives are much different than the other two long tech podcasts I have.</p>
-<p><a href="https://relay.fm/clockwise">Clockwise:</a> A weekly 30 minute, fast paced tech podcast that has 2 guests every week and 4 topics. Hosted by Mikah Sargent and Dan Moren.</p>
 <p><a href="https://relay.fm/radar">Under the Radar:</a> This show is 30 mintutes biweekly and hosted by David Smith and Marco Arment. This show discusses all aspects of indie iOS App Development, and even though I am not a developer, it is still very interesting to hear the developers discuss all things regarding how Apple impacts devs.</p>
 <p><a href="https://relay.fm/cortex">Cortex:</a> This podcast isn't all tech, but doesn't really fit elsewhere. Hosted by CGP Grey and Myke Hurley, this podcast discusses their work lives and pretty much anything else they decide to talk about.</p>
 <p><a href="https://relay.fm/downstream">Downstream:</a> This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and Julia Alexander.</p><br>
@@ -80,7 +79,7 @@ layout: page
 
 <h2 id="jude">St. Jude's Fundraisers</h2>
 <div style="margin-left: 25px;">
-  <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitlhas a large fundraiser for St. Jude's Children's Research Hospital. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
+  <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitl. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
   <p>In 2022, they opened the fundraiser up for individual community members to have their own sub-campaigns. I started a campaign, and in my campaign, if somebody donated $10 or more, I would mow their name into a lawn before cutting all the grass. I would dedicate that lawn to them and donate half of the money I earned from mowing that lawn. My fundraiser raised $625. The link to the fundraiser is <a href="https://jdburch.com/2022">here</a>.</p>
   <p>During September 2023, I ran a similar campaign with Relay FM again. This year, I donated my total earnings for 1 lawn for every $200 raised (up to $1000 raised). My campaign raised $1,521.01, smashing my total last near by nearly 3x. This link is <a href="https://jdburch.com/2023">here</a>. I am so proud of how much I have raised and I am incredibly impressed with the entire Relay FM community</p><br>
 </div>
