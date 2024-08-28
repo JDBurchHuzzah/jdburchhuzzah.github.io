@@ -9,5 +9,5 @@ category: blog
 description: My 2024 campaign to help cure childhood cancer.
 ---
 
-<center> It's basically September, which means it's time to help end childhood cancer. You can donate <a hreef="https://jdburch.com/2024">here</a>, and feel free to read my article below.</center><br><br>
+<center> It's basically September, which means it's time to help end childhood cancer. You can donate <a href="https://jdburch.com/2024">here</a>, and feel free to read my article below.</center><br><br>
 
