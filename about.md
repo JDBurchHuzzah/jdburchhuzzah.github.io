@@ -13,6 +13,8 @@ layout: page
   <h4><a href="#tech">My Devices</a></h4>
 </div>
 
+test test <a href="/_posts/2023-11-20-All-State.markdown">test</a>
+
 <h2 id="jude">St. Jude's Fundraisers</h2>
 <div style="margin-left: 25px;">
   <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitl. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
