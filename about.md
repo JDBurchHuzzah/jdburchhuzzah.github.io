@@ -7,10 +7,17 @@ layout: page
 
 <div style="text-align: center;">
   <h2>Quick Jumps</h2>
+  <h4><a href="#jude">St. Jude's Fundraisers</a></h4>
   <h4><a href="#scouts">Scouts</a></h4>
   <h4><a href="#podcasts">Podcasts</a></h4>
-  <h4><a href="#jude">St. Jude's Fundraisers</a></h4>
   <h4><a href="#tech">My Devices</a></h4>
+</div>
+
+<h2 id="jude">St. Jude's Fundraisers</h2>
+<div style="margin-left: 25px;">
+  <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitl. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
+  <p>In 2022, they opened the fundraiser up for individual community members to have their own sub-campaigns. I started a campaign, and in my campaign, if somebody donated $10 or more, I would mow their name into a lawn before cutting all the grass. I would dedicate that lawn to them and donate half of the money I earned from mowing that lawn. My fundraiser raised $625. The link to the fundraiser is <a href="https://jdburch.com/2022">here</a>.</p>
+  <p>During September 2023, I ran a similar campaign with Relay FM again. This year, I donated my total earnings for 1 lawn for every $200 raised (up to $1000 raised). My campaign raised $1,521.01, smashing my total last near by nearly 3x. This link is <a href="https://jdburch.com/2023">here</a>. I am so proud of how much I have raised and I am incredibly impressed with the entire Relay FM community</p><br>
 </div>
 
 <h2>Scouts - Adult</h2>
@@ -75,13 +82,6 @@ layout: page
   <p><a href="https://rebelforceradio.com">Rebel Force Radio:</a> This podcast, hosted by Jason Swank and Jimmy Mac, goes into extreme depth on all things Star Wars, which is perfect for a Star Wars nerd like me. They make 2hr+ podcast episodes after every single Star Wars episode drops, and they also have a weekly show with more broad Star Wars content.</p>
   <p><a href="https://relay.fm/ungeniused">Ungeniused:</a> A short podcast that covers weird and wacky Wikipedia Topics, hosted by Myke Hurley and Stephen Hackett</p>
   <p><a href="https://www.theincomparable.com/robot/">Robot or Not:</a> This show is a fun banter show where John Siracusa and Jason Snell debate if something is a robot or not, and has since expanded to deciding if X is Y or not, with various subjects.</p><br>
-</div>
-
-<h2 id="jude">St. Jude's Fundraisers</h2>
-<div style="margin-left: 25px;">
-  <p>Every September, Relay FM organizes a huge fundraiser for St. Jude's Childrens Research hostpitl. This fundraiser raises an incredible amount of money each year. Their lifetime total is just shy of $3 Million over 5 years.</p>
-  <p>In 2022, they opened the fundraiser up for individual community members to have their own sub-campaigns. I started a campaign, and in my campaign, if somebody donated $10 or more, I would mow their name into a lawn before cutting all the grass. I would dedicate that lawn to them and donate half of the money I earned from mowing that lawn. My fundraiser raised $625. The link to the fundraiser is <a href="https://jdburch.com/2022">here</a>.</p>
-  <p>During September 2023, I ran a similar campaign with Relay FM again. This year, I donated my total earnings for 1 lawn for every $200 raised (up to $1000 raised). My campaign raised $1,521.01, smashing my total last near by nearly 3x. This link is <a href="https://jdburch.com/2023">here</a>. I am so proud of how much I have raised and I am incredibly impressed with the entire Relay FM community</p><br>
 </div>
 
 <h2 id="ranger">Junior Ranger Program</h2>
