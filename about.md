@@ -40,7 +40,7 @@ layout: page
   <img src="/assets/images/boyscout.jpg" class="alignright" style="max-width:43%; margin: auto 0px;" />
   <h4>Stats</h4>
   <p>Merit Badges: 51</p>
-  <p>Eagle Palms: 5</p><br>
+  <p>Eagle Palms: 6</p><br>
   <p>Eagle Scout Rank: November 1, 2022</p>
   <p>Life Rank: December 9, 2019</p>
   <p>Star Rank: April 15, 2019</p>
