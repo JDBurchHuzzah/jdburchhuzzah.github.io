@@ -95,5 +95,3 @@ layout: page
 <p>Mobile Phone: iPhone 14 Pro with Torras MagSafe case and the Popwallet+ for MagSafe</p>
 <p>Watch: Apple Watch Series 7 with the Sport Band</p>
 <p>Tablet: M4 iPad Pro 13" with Apple Pencil Pro and Magic Keyboard</p>
-
-Are you looking for my High School about page? Click here to see it
