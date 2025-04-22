@@ -59,10 +59,8 @@ layout: page
 <h4>My Tech Podcasts</h4>
 <p><a href="https://relay.fm/connected">Connected:</a> My favorite podcast, a weekly panel with hosts from across the globe (and lots of japes). Hosted by Myke Hurley, Federico Viticci, and Stephen Hackett. I subscribe to Connected Pro, which gives me access to the Relay FM Members Discord, where I have met many friends throughout the years!</p>
 <p><a href="https://relay.fm/upgrade">Upgrade:</a> A weekly tech podcast hosted by Jason Snell and Myke Hurley.</p>
-<p><a href="https://atp.fm">Accidental Tech Podcast:</a> Yet another tech podcast, hosted by Marco Arment, John Siracusa, and Casey Liss. Their perspectives are much different than the other two long tech podcasts I have.</p>
-<p><a href="https://relay.fm/radar">Under the Radar:</a> This show is 30 mintutes biweekly and hosted by David Smith and Marco Arment. This show discusses all aspects of indie iOS App Development, and even though I am not a developer, it is still very interesting to hear the developers discuss all things regarding how Apple impacts devs.</p>
 <p><a href="https://relay.fm/cortex">Cortex:</a> This podcast isn't all tech, but doesn't really fit elsewhere. Hosted by CGP Grey and Myke Hurley, this podcast discusses their work lives and pretty much anything else they decide to talk about.</p>
-<p><a href="https://relay.fm/downstream">Downstream:</a> This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and Julia Alexander.</p><br>
+<p><a href="https://relay.fm/downstream">Downstream:</a> This show is all about the Streaming Media industry, and is very interesting to me because I am very interested in business. Hosted by Jason Snell and guests.</p><br>
 </div>
 
 <h2>Wondery Podcasts</h2>
