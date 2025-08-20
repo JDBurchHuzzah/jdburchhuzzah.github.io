@@ -8,9 +8,6 @@ layout: page
 <div style="text-align: center;">
   <h2>Quick Jumps</h2>
   <h4><a href="#jude">St. Jude's Fundraisers</a></h4>
-  <h4><a href="#scouts">Scouts</a></h4>
-  <h4><a href="#podcasts">Podcasts</a></h4>
-  <h4><a href="#tech">My Devices</a></h4>
 </div>
 
 <h2 id="jude">St. Jude Children's Research Hospital Fundraisers</h2>
