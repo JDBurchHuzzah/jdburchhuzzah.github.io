@@ -10,6 +10,11 @@ layout: page
   <h4><a href="#jude">St. Jude's Fundraisers</a></h4>
 </div>
 
+<h2 id="abt">About Me</h2>
+<div style="margin-left: 25px;">
+    <p>Hey, I'm JD! I'm an undergradaute Economics student at the University of Michigan, and a Sales Advisor at Best Buy. I play Tenor Sax in the Michigan Marching Band, Basketball Band, and University Band! I also raise money for St. Jude Children's Research Hospital every September (see below). </p>
+</div>
+
 <h2 id="jude">St. Jude Children's Research Hospital Fundraisers</h2>
 <div style="margin-left: 25px;">
   <p>Every September, <a href="https://relay.fm">Relay</a> organizes a fundraiser for <a href="https://stjude.org">St. Jude Children's Research Hospital</a>. This fundraiser raises an incredible amount of money each year. Their lifetime total is over $5 Million raised since!</p>
