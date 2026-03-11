@@ -12,7 +12,7 @@ layout: page
 
 <h2 id="abt">About Me</h2>
 <div style="margin-left: 25px;">
-    <p>Hey, I'm JD! I'm an undergradaute Economics student at the University of Michigan, and a Sales Advisor at Best Buy. I play Tenor Sax in the Michigan Marching Band, Basketball Band, and University Band! I also raise money for St. Jude Children's Research Hospital every September (see below). </p>
+    <p>Hey, I'm JD! I'm an undergraduate Economics student at the University of Michigan, and a Sales Advisor at Best Buy. I play Tenor Sax in the Michigan Marching Band, Basketball Band, and University Band! I also raise money for St. Jude Children's Research Hospital every September (see below). </p>
 </div>
 
 <h2 id="jude">St. Jude Children's Research Hospital Fundraisers</h2>
