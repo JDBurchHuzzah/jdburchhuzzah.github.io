@@ -1,5 +1,6 @@
 ---
 layout: page
+show-description: false
 title: About
 permalink: /about/
 description: Economics, music, technology, and giving back.
