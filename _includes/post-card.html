@@ -1,0 +1,5 @@
+<article class="post-card">
+  <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %-d, %Y' }}</time>
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+</article>

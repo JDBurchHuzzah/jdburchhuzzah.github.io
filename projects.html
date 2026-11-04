@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
+description: Things I’ve built, organized, and shared.
 ---
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+<article class="project-entry">
+<p class="eyebrow">Community · 2022–present</p>
+<h2><a href="{{ '/st-jude/' | relative_url }}">Marching for St. Jude</a></h2>
+<p>A yearly fundraising campaign supporting St. Jude Children’s Research Hospital. I organize the campaign, create donation incentives, and share my Michigan Marching Band experience with supporters.</p>
+<p><strong>Impact:</strong> $7,091.65 raised across the 2022–2025 campaigns, with a fifth campaign launched in 2026.</p>
+<a href="{{ '/st-jude/' | relative_url }}">Explore the campaigns →</a>
+</article>
+{% for post in site.posts %}{% if post.projects %}
+<article class="project-entry"><p class="eyebrow">Web · Jekyll / GitHub Pages</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2><p>A personal home for my writing, projects, and fundraising. Built with Jekyll and the Indigo theme, hosted on GitHub Pages, and refreshed with clearer navigation and a fuller introduction.</p><div class="actions"><a href="{{ post.url | relative_url }}">Read about the project →</a><a href="https://github.com/JDBurchHuzzah/jdburchhuzzah.github.io">View source</a></div></article>
+{% endif %}{% endfor %}

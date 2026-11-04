@@ -1,52 +1,11 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
-
-{% if showHeader == true %}
-
-<script src='https://septembed.rknight.me/sj.js?u=https://tiltify.com/@jd-burch/jd-burch-for-st-jude-2026'></script><br><br>
-<style>
-.sj-container p {
-    color: white !important;
-    background: black!important;
-}
-
-.sj-container {
-    background: black!important;
-    border: 2px solid #bdc3c7!important;
-
-}
-   
-.sj-progress {
-    background: #9300ff !important;
-}
-
-.sj-container:hover {
-    background: black!important;
-}
-</style>
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="https://jdburch.com/about">
-                <img class="selfie" alt="{{ site.title }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.title }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
-
-        <h1 class="title">{{ site.title }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
-
-        {% include social-links.html %}
-    </header>
+{% if page.title == 'Home' %}
+<header class="header-home">
+  <a class="link" href="{{ '/about/' | relative_url }}"><img class="selfie" src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="About JD Burch" width="125" height="125" fetchpriority="high"></a>
+  <h1 class="title">{{ site.title }}</h1>
+  <p class="description">UMich Economics · MMB Tenor Sax · St. Jude Supporter</p>
+  {% include social-links.html %}
+</header>
+{% else %}
+<a class="site-name" href="{{ '/' | relative_url }}">JD Burch<span>Economics, music &amp; community.</span></a>
 {% endif %}
-
 {% include nav.html %}

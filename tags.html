@@ -3,7 +3,6 @@ layout: page
 title: Tags
 ---
 <section class="list">
-    <h1 class="title">Tags</h1>
 
     {% assign tags_list = site.tags %}
 
@@ -33,7 +32,7 @@ title: Tags
                 {% if group == null or group == post.group %}
                     <li class="item">
                         <a class="url" href="{{ site.url }}{{ post.url }}">
-                            <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                            <aside class="date"><time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                             <h3 class="title">{{ post.title }}</h3>
                         </a>
                     </li>

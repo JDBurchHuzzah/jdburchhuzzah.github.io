@@ -1,8 +1,12 @@
 ---
-title: Resume
 layout: page
+title: Résumé
+permalink: /resume/
+description: My experience, education, and activities.
 ---
 
-test test test test test test
+I’m studying Economics at the University of Michigan and working as a Sales Advisor at Best Buy. I also play tenor sax with the Michigan Marching Band, Basketball Band, and University Band.
 
-<script src='https://septembed.rknight.me/sj.js?u=https://tiltify.com/@jd-burch/jd-burch-for-st-jude-2023'></script>
+<a class="button" href="{{ '/assets/Resume.pdf' | relative_url }}">Open résumé (PDF) →</a>
+
+For questions or a conversation about my experience, [email me](mailto:{{ site.email }}) or [connect on LinkedIn](https://www.linkedin.com/in/{{ site.linkedin }}).

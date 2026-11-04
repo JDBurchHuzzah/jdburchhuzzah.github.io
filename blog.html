@@ -1,32 +1,10 @@
 ---
-# blog page must be named index.html and in its own folder to support pagination
-# https://jekyllrb.com/docs/pagination/
 layout: page
 title: Blog
-pagination:
-  enabled: true
+permalink: /blog/
+description: Notes on fundraising, building this website, and the things I care about.
 ---
-
-<section class="list">
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.pagination.enabled %}
-		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-
-		{% include pagination.html%}
-	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	{% endif %}
+<section aria-label="Blog posts">
+{% assign writing = site.posts | where: 'category', 'blog' | where_exp: 'post', 'post.hidden != true' %}
+{% for post in writing %}{% include post-card.html %}{% else %}<p>More writing is on the way.</p>{% endfor %}
 </section>

@@ -1,4 +1,29 @@
 ---
 layout: page
 title: Home
+description: Economics at the University of Michigan, music with the Michigan Marching Band, and fundraising for St. Jude. Get to know JD Burch.
 ---
+<section class="intro" aria-labelledby="hello">
+  <p class="eyebrow">A little about me</p>
+  <h2 id="hello">Hey, I’m JD.</h2>
+  <p>I’m studying Economics at the University of Michigan, playing tenor sax with the Michigan Marching Band, and raising money for St. Jude Children’s Research Hospital. This is where I share what I’m working on and the things I care about.</p>
+  <div class="actions"><a class="button" href="{{ '/projects/' | relative_url }}">Explore my work <span aria-hidden="true">→</span></a><a href="mailto:{{ site.email }}">Get in touch</a></div>
+</section>
+<section class="section" aria-labelledby="now">
+  <div class="section-heading"><h2 id="now">What I’m doing</h2><a href="{{ '/about/' | relative_url }}">More about me →</a></div>
+  <div class="three-up">
+    <article><p class="eyebrow">01 / Economics</p><h3>Learning at Michigan</h3><p>Studying Economics at the University of Michigan and working as a Sales Advisor at Best Buy.</p></article>
+    <article><p class="eyebrow">02 / Music</p><h3>Playing with the band</h3><p>Tenor sax in the Michigan Marching Band, Basketball Band, and University Band.</p></article>
+    <article><p class="eyebrow">03 / Community</p><h3>Marching for St. Jude</h3><p>Bringing music and fundraising together to support children and their families.</p></article>
+  </div>
+</section>
+<section class="section" aria-labelledby="featured">
+  <div class="section-heading"><h2 id="featured">Featured work</h2><a href="{{ '/projects/' | relative_url }}">All projects →</a></div>
+  <article class="feature"><p class="eyebrow">Community / Since 2022</p><h3><a href="{{ '/st-jude/' | relative_url }}">Marching for St. Jude</a></h3><p>A yearly fundraiser, powered by community support and a behind-the-scenes look at life in the Michigan Marching Band.</p><p class="impact"><strong>$7,091.65</strong> raised across the 2022–2025 campaigns</p><a href="{{ '/st-jude/' | relative_url }}">See the story &amp; campaigns →</a></article>
+</section>
+<section class="section" aria-labelledby="writing">
+  <div class="section-heading"><h2 id="writing">Latest writing</h2><a href="{{ '/blog/' | relative_url }}">All posts →</a></div>
+  {% assign writing = site.posts | where: 'category', 'blog' | where_exp: 'post', 'post.hidden != true' %}
+  {% for post in writing limit: 2 %}{% include post-card.html %}{% endfor %}
+</section>
+<section class="section contact"><h2>Let’s connect.</h2><p>Have a question about my work, music, or fundraising? I’d love to hear from you.</p><a href="mailto:{{ site.email }}">{{ site.email }} →</a></section>

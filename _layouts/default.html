@@ -1,76 +1,22 @@
----
-layout: compress
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#050535">
-    <meta name="apple-mobile-web-app-title" content="JD Burch">
-    <meta name="application-name" content="JD Burch">
-    <meta name="msapplication-TileColor" content="#da532c">
-    
-    {% if site.analytics-google %}
-        {% include analytics-google.html %}
-    {% endif %}
-
-    <meta charset="utf-8">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <meta name=author content="{{ site.title }}">
-
-    {% seo %}
-
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
-
-    <script src="https://kit.fontawesome.com/d9b09040a7.js" crossorigin="anonymous"></script>
-
-    <style>
-        
-    {% if site.dark-theme == "auto" %}
-        {% capture scss_sheet %}
-            {% include style.scss %}
-            @media (prefers-color-scheme: dark) {
-                {% include style-dark.scss %}
-            }
-        {% endcapture %}
-    {% elsif site.dark-theme %}
-        {% capture scss_sheet %}{% include style-dark.scss %}{% endcapture %}
-    {% else %}
-        {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    {% endif %}
-
-    {{ scss_sheet | scssify }}
-    </style>
-<style>
-.alignleft {
-    float: left;
-}
-.alignright {
-    float: right;
-}
-</style>
-    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  {% seo %}
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+  {% feed_meta %}
+  <style>{% capture sheet %}{% if site.dark-theme == 'auto' %}{% include style.scss %}@media(prefers-color-scheme:dark){ {% include style-dark.scss %} }{% elsif site.dark-theme %}{% include style-dark.scss %}{% else %}{% include style.scss %}{% endif %}{% endcapture %}{{ sheet | scssify }}</style>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
 </head>
 <body>
-    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
-        {% if page.layout == "post" %}
-            <div class="post">
-        {% else %}
-            {% if showHeader != true %}
-                <div class="page {{ page.title | downcase }}">
-            {% else %}
-                <div class="{{ page.title | downcase }}">
-            {% endif %}
-        {% endif %}
-
-            {{ content }}
-            </div>
-                </div>
-            </div>
-    </div>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="wrapper-large site-shell">
+    {% include header.html %}
+    <main id="main" class="site-main {{ page.title | slugify }}" tabindex="-1">{{ content }}</main>
+    {% include footer.html %}
+  </div>
 </body>
 </html>

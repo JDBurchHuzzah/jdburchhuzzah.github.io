@@ -1,25 +1,26 @@
 ---
-title: About
 layout: page
+title: About
+permalink: /about/
+description: Economics, music, technology, and giving back.
 ---
-
-<img src="/assets/images/profilepfp.jpg" alt="JD Burch">
-
-<div style="text-align: center;">
-  <h2>Quick Jumps</h2>
-  <h4><a href="#jude">St. Jude's Fundraisers</a></h4>
+<div class="about-intro">
+<img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="JD Burch" width="200" height="200">
+<div><h2>Hey, I’m JD!</h2><p>I’m an undergraduate Economics student at the University of Michigan and a Sales Advisor at Best Buy. Outside of class and work, you’ll find me playing music, following technology, and supporting St. Jude Children’s Research Hospital.</p></div>
 </div>
 
-<h2 id="abt">About Me</h2>
-<div style="margin-left: 25px;">
-    <p>Hey, I'm JD! I'm an undergraduate Economics student at the University of Michigan, and a Sales Advisor at Best Buy. I play Tenor Sax in the Michigan Marching Band, Basketball Band, and University Band! I also raise money for St. Jude Children's Research Hospital every September (see below). </p>
-</div>
+## Music at Michigan
 
-<h2 id="jude">St. Jude Children's Research Hospital Fundraisers</h2>
-<div style="margin-left: 25px;">
-  <p>Every September, <a href="https://relay.fm">Relay</a> organizes a fundraiser for <a href="https://stjude.org">St. Jude Children's Research Hospital</a>. This fundraiser raises an incredible amount of money each year. Their lifetime total is over $5 Million raised since!</p>
-  <p>In 2022, they opened the fundraiser up for individual community members to have their own sub-campaigns. I started a campaign, and in my campaign, for qualifying donations, I would mow their name into a lawn before cutting the grass. I would dedicate that lawn to them and match a portion of their donation. <a href="https://jdburch.com/2022">2022's Fundraiser</a> raised $625.</p>
-  <p>During September 2023, I ran a similar campaign again. That year, <a href="https://jdburch.com/2023">the campaign</a> raised $1,521.01, smashing my total from 2022 by nearly 3x.</p>
-  <p>In 2024, <a href="https://jdburch.com/2023">I continued fundraising</a>, this time with different incentives, and raised $2,147.11.</p>
-  <p>2025's <a href="https://jdburch.com/StJude25">Marching for St. Jude Fundraiser</a> raised a crazy $2,798.53, bringing the lifetime total raised to $7,091.65. This was an incredibly fun fundrasier to setup and run, and I enjoyed sharing my Michigan Marching Band experience while raising money for a great cause!</p>
-</div>
+I play tenor sax in the Michigan Marching Band, Basketball Band, and University Band. Music is a big part of my life, and sharing my experience in the MMB has become part of how I fundraise, too.
+
+## Giving back
+
+Every September, I run a fundraiser for St. Jude alongside the Relay community. My campaigns started with mowing donors’ names into lawns and grew into **Marching for St. Jude**, connecting donations with my time rehearsing and performing with the band.
+
+Together, supporters raised **$7,091.65 across the 2022–2025 campaigns**. [Explore the campaigns and latest fundraiser →]({{ '/st-jude/' | relative_url }})
+
+## Building and exploring
+
+I built this website to have a place for my projects, writing, and interests. I enjoy technology and the communities around it, and I’m continuing to make this space my own.
+
+<div class="actions"><a class="button" href="{{ '/resume/' | relative_url }}">View my résumé →</a><a href="mailto:{{ site.email }}">Get in touch</a></div>

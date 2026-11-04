@@ -1,39 +1,5 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
-    <ul class="list">
-        {% if page.title != "Home" %}
-            <li class="item">
-                <a class="link" href="https://jdburch.com/">Home</a>
-            </li>
-        {% endif %}
-
-        {% if site.blog == true %}
-            {% if page.title != "Blog" %}
-                <li class="item">
-                    <a class="link" href="https://jdburch.com/blog">Blog</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="https://jdburch.com/projects">Projects</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-        {% if site.about == true %}
-            {% if page.title != "About" %}
-                <li class="item">
-                    <a class="link" href="https://jdburch.com/about">About</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-        {% if site.resume == true %}
-            <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
-            </li>
-        {% endif %}
-    </ul>
+<nav class="site-nav" aria-label="Main navigation">
+  {% assign paths = '/|/about/|/projects/|/blog/|/st-jude/|/resume/' | split: '|' %}
+  {% assign names = 'Home|About|Projects|Blog|St. Jude|Résumé' | split: '|' %}
+  {% for path in paths %}<a href="{{ path | relative_url }}"{% if page.url == path %} aria-current="page"{% endif %}>{{ names[forloop.index0] }}</a>{% endfor %}
 </nav>

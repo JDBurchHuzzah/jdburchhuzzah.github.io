@@ -1,13 +1,4 @@
 <footer class="footer-main">
-    {{ site.title }} © {{ site.time | date: '%Y' }}
-
-    <a class="link" href="{{ site.url }}/feed.xml" target="_blank">
-        <i class="fa-solid fa-rss"></i>
-    </a>
-
-    <p class="extra">
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a>
-        by
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
-    </p>
+  <p>JD Burch &copy; {{ site.time | date: '%Y' }} · <a href="mailto:{{ site.email }}">Get in touch</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+  <p class="extra">Built with Jekyll. Based on <a href="https://github.com/sergiokopplin/indigo">Indigo by Kopplin</a>.</p>
 </footer>

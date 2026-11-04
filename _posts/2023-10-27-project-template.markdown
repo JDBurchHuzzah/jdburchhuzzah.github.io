@@ -11,8 +11,14 @@ category: project
 externalLink: false
 ---
 
-jdburch.com V1 is now published and my first major project. Details about my experience can be found in [my blog post about it.](https://jdburch.com/my-website-is-published/)
+jdburch.com is my personal website: a home for my writing, projects, and St. Jude fundraisers.
 
-This website has an about page, a blog with Jekyll Pagination, a projects page for now. Later, when I need a resume, I can enable a resume page as well. There are options for many other pages as well, which I will dabble with. 
+## How it’s built
 
-This site is hosted from [my Github pages site.](https://github.com/JDBurchHuzzah/jdburchhuzzah.github.io)
+The site uses Jekyll and the Indigo theme, hosted on GitHub Pages with a custom domain. The design keeps a black background, purple accents, a centered portrait, and a simple reading layout.
+
+## A more useful home
+
+The refreshed site brings my work and interests onto the homepage, adds a permanent St. Jude campaign archive, and makes my résumé and contact information easier to find. It also includes clearer navigation, accessible link labels, and smaller images.
+
+[Read about the original launch]({{ '/my-website-is-published/' | relative_url }}) or [explore the source on GitHub](https://github.com/JDBurchHuzzah/jdburchhuzzah.github.io).
