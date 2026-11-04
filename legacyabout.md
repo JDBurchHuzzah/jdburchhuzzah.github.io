@@ -4,7 +4,7 @@ sitemap: false
 layout: page
 ---
 
-<img src="/assets/images/profilepfp.jpg" alt="JD Burch">
+<img src="/assets/images/portrait.jpg" alt="JD Burch">
 
 <div style="text-align: center;">
   <h2>Quick Jumps</h2>
