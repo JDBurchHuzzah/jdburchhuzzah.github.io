@@ -16,7 +16,7 @@ Open http://localhost:4000. Build without the server using `bundle exec jekyll b
 ## Editing
 
 - Homepage: `index.html`; About: `about.md`; Projects: `projects.html`.
-- Campaign naming: **JD Burch for St. Jude** is the umbrella name for every year. **Marching for St. Jude** is the theme of the 2025 and 2026 campaigns only; `_data/campaigns.yml` keeps the campaign title and theme separate.
+- Campaign naming: **JD Burch for St. Jude** is the campaign name for every year. **Marching for St. Jude** is the theme of the 2025 and 2026 campaigns only; `_data/campaigns.yml` keeps the campaign title and theme separate.
 - Fundraising hub: `st-jude.html`; annual figures and stories: `_data/campaigns.yml`.
 - The completed 2026 campaign raised **$3,100.12** against a $3,000 goal, verified on Tiltify. The lifetime total for **2022–2026 is $10,191.77**. Keep homepage, About, Projects, hub, and campaign data in sync when adding results.
 - Writing: `_posts/`. Existing article URLs are retained.

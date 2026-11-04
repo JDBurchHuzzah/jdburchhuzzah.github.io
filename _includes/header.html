@@ -1,11 +1,7 @@
-{% if page.title == 'Home' %}
 <header class="header-home">
   <a class="link" href="{{ '/about/' | relative_url }}"><img class="selfie" src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="About JD Burch" width="125" height="125" fetchpriority="high"></a>
-  <h1 class="title">{{ site.title }}</h1>
+  {% if page.title == 'Home' %}<h1 class="title">{{ site.title }}</h1>{% else %}<p class="title">{{ site.title }}</p>{% endif %}
   <p class="description">UMich Economics · MMB Tenor Sax · St. Jude Supporter</p>
   {% include social-links.html %}
 </header>
-{% else %}
-<a class="site-name" href="{{ '/' | relative_url }}">JD Burch<span>Economics, music &amp; community.</span></a>
-{% endif %}
 {% include nav.html %}

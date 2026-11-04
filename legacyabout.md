@@ -123,7 +123,7 @@ layout: page
 </div>
 
 <h2 id="jude">JD Burch for St. Jude</h2>
-<p>JD Burch for St. Jude is the umbrella name for my annual fundraising campaigns, which began in 2022. The theme for 2025 and 2026 was Marching for St. Jude.</p>
+<p>I began my annual JD Burch for St. Jude fundraising campaigns in 2022. The theme for 2025 and 2026 was Marching for St. Jude.</p>
 <p><a href="{{ '/st-jude/' | relative_url }}">Visit the campaign hub for the full history and results →</a></p>
 
 <h2 id="ranger">Junior Ranger Program</h2>

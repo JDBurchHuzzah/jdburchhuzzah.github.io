@@ -8,21 +8,19 @@ a:focus-visible, button:focus-visible { outline: 2px solid #d5a6ff; outline-offs
 p { color: #bdbdbd; font-weight: 400; }
 h1,h2,h3 { color: #ededed; line-height: 1.25; }
 strong { font-weight: 600; }
-.site-shell { padding-top: 72px; }
-.header-home > .link > .selfie { object-fit: cover; margin-bottom: 22px; }
-.header-home > .description { color: var(--muted); width: 100%; max-width: 580px; margin: 0 auto 22px; font-size: 1.7rem; line-height: 1.7; }
-.social-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; }
-.social-links { gap: 8px; }
-.social-links a { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; color: #ededed; text-decoration: none; }
+.site-shell { padding-top: 125px; }
+.header-home > .link > .selfie { object-fit: cover; margin-bottom: 25px; }
+.header-home > .title { margin: 0 0 13px; font-size: 4rem; line-height: 1.2; font-weight: 700; letter-spacing: -1px; color: #ededed; }
+.header-home > .description { color: var(--muted); width: 70%; margin: 0 auto 30px; font-size: 1.85rem; line-height: 1.2; }
+.social-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 4px; }
+.social-links a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; color: #ededed; text-decoration: none; }
 .social-links svg { display: block; }
 .social-links a:hover { color: var(--accent); }
-.site-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 22px; border-bottom: 1px solid var(--line); padding: 24px 0; margin-bottom: 44px; }
-.site-nav a { padding: 8px 0; font-size: 1.5rem; text-decoration: none; }
+.site-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0; border-bottom: 1px solid var(--line); margin-top: 40px; padding: 0 0 40px; margin-bottom: 40px; }
+.site-nav a { padding: 7px 15px; font-size: 2rem; text-decoration: none; }
 .site-nav a[aria-current] { color: #eee; text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 9px; }
-.site-name { display: block; text-align: center; font-size: 2.5rem; font-weight: 700; text-decoration: none; color: #ededed; }
-.site-name span { display: block; color: var(--muted); font-size: 1.4rem; font-weight: 400; margin-top: 10px; }
 .site-main { margin: 0; min-height: 35vh; }
-.page-heading { margin-bottom: 36px; }
+.page-heading { margin-bottom: 40px; text-align: center; }
 .page-heading h1 { margin: 0 0 12px; font-size: 3.4rem; }
 .page-heading p { margin: 0; color: var(--muted); }
 .intro { max-width: 650px; margin: 0 auto; text-align: center; }
@@ -32,7 +30,7 @@ strong { font-weight: 600; }
 .intro .actions { justify-content: center; }
 .button { display: inline-block; background: #9300ff; border: 1px solid #a944ff; color: white; text-decoration: none; border-radius: 4px; padding: 12px 18px; font-size: 1.4rem; line-height: 1.5; }
 .button:hover { color: white; background: #a52bff; }
-.section { border-top: 1px solid var(--line); margin-top: 44px; padding-top: 32px; }
+.section { border-top: 1px solid var(--line); margin-top: 40px; padding-top: 40px; }
 .section-heading { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; }
 .section-heading h2 { margin: 0; }
 .section-heading > a { font-size: 1.3rem; }
@@ -68,7 +66,7 @@ strong { font-weight: 600; }
 .campaign p { font-size: 1.45rem; margin: 12px 0; }
 .campaign a { font-size: 1.35rem; }
 .small-note { font-size: 1.25rem; color: var(--muted); margin-bottom: 0; }
-.footer-main { border-color: var(--line); margin-top: 52px; }
+.footer-main { border-color: var(--line); margin-top: 40px; }
 .footer-main p,.footer-main > .extra { color: var(--muted); font-size: 1.2rem; }
 .footer-main p { margin-bottom: 8px; }
 .footer-main > .extra > .link { color: var(--muted); }
@@ -80,9 +78,9 @@ strong { font-weight: 600; }
 .alignleft { float: left; }
 .alignright { float: right; }
 @media(max-width: 600px) {
- .site-shell { padding-top: 36px; }
- .site-nav { gap: 0 18px; padding: 18px 0; margin-bottom: 32px; }
- .site-nav a { font-size: 1.4rem; }
+ .header-home > .description { width: 90%; line-height: 1.5; }
+ .site-nav { gap: 0; padding-bottom: 40px; margin-bottom: 40px; }
+ .site-nav a { font-size: 1.6rem; padding: 7px 12px; }
  .three-up { grid-template-columns: 1fr; gap: 28px; }
  .three-up article { border-left: 2px solid #54247d; padding-left: 18px; }
  .feature { padding: 22px; }
