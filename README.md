@@ -17,9 +17,9 @@ Open http://localhost:4000. Build without the server using `bundle exec jekyll b
 
 - Homepage: `index.html`; About: `about.md`; Projects: `projects.html`.
 - Fundraising hub: `st-jude.html`; annual figures and stories: `_data/campaigns.yml`.
-- Historical total on the homepage and hub covers **2022–2025 only**. Update both when adding a confirmed annual result. The 2026 campaign links out for its latest total.
+- The completed 2026 campaign raised **$3,100.12** against a $3,000 goal, verified on Tiltify. The lifetime total for **2022–2026 is $10,191.77**. Keep homepage, About, Projects, hub, and campaign data in sync when adding results.
 - Writing: `_posts/`. Existing article URLs are retained.
-- Résumé: replace `assets/Resume.pdf` with a current PDF.
+- Résumé page and PDF are removed for now.
 - Shared navigation, header, footer: `_includes/`; visual refinements: `assets/site.css`.
 - The original dark Indigo palette, Helvetica typography, portrait, and 810px column are preserved.
 

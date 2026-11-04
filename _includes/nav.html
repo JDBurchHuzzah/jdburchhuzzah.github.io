@@ -1,5 +1,5 @@
 <nav class="site-nav" aria-label="Main navigation">
-  {% assign paths = '/|/about/|/projects/|/blog/|/st-jude/|/resume/' | split: '|' %}
-  {% assign names = 'Home|About|Projects|Blog|St. Jude|Résumé' | split: '|' %}
+  {% assign paths = '/|/about/|/projects/|/blog/|/st-jude/' | split: '|' %}
+  {% assign names = 'Home|About|Projects|Blog|St. Jude' | split: '|' %}
   {% for path in paths %}<a href="{{ path | relative_url }}"{% if page.url == path %} aria-current="page"{% endif %}>{{ names[forloop.index0] }}</a>{% endfor %}
 </nav>

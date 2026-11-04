@@ -17,10 +17,10 @@ I play tenor sax in the Michigan Marching Band, Basketball Band, and University 
 
 Every September, I run a fundraiser for St. Jude alongside the Relay community. My campaigns started with mowing donors’ names into lawns and grew into **Marching for St. Jude**, connecting donations with my time rehearsing and performing with the band.
 
-Together, supporters raised **$7,091.65 across the 2022–2025 campaigns**. [Explore the campaigns and latest fundraiser →]({{ '/st-jude/' | relative_url }})
+Together, supporters raised **$10,191.77 across the 2022–2026 campaigns**. [Explore the campaigns and results →]({{ '/st-jude/' | relative_url }})
 
 ## Building and exploring
 
 I built this website to have a place for my projects, writing, and interests. I enjoy technology and the communities around it, and I’m continuing to make this space my own.
 
-<div class="actions"><a class="button" href="{{ '/resume/' | relative_url }}">View my résumé →</a><a href="mailto:{{ site.email }}">Get in touch</a></div>
+<div class="actions"><a href="mailto:{{ site.email }}">Get in touch</a></div>

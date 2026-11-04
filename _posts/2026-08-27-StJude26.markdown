@@ -6,8 +6,12 @@ image: /assets/images/St.-Jude-logo.png
 headerImage: true
 star: false
 category: blog
-description: My 2026 campaign to help end childhood cancer.
+description: The 2026 campaign is complete, with $3,100.12 raised for St. Jude.
 ---
+
+<aside class="feature" aria-label="Campaign update"><p class="eyebrow">Campaign complete · 2026</p><h2>Thank you for $3,100.12 raised!</h2><p>This campaign has ended and exceeded its $3,000 goal. Together, supporters have now raised $10,191.77 across my five annual campaigns.</p><a href="https://tiltify.com/@jd-burch/jd-burch-for-st-jude-2026">View the final results on Tiltify →</a></aside>
+
+<p class="small-note">The original campaign announcement follows below.</p>
 
 <center><strong>It's basically September, which means it's time to help end childhood cancer. You can donate <a href="https://jdburch.com/2026">here</a>, and feel free to read my article below.</strong></center><br>
 

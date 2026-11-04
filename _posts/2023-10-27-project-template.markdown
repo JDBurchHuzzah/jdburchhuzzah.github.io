@@ -19,6 +19,6 @@ The site uses Jekyll and the Indigo theme, hosted on GitHub Pages with a custom 
 
 ## A more useful home
 
-The refreshed site brings my work and interests onto the homepage, adds a permanent St. Jude campaign archive, and makes my résumé and contact information easier to find. It also includes clearer navigation, accessible link labels, and smaller images.
+The refreshed site brings my work and interests onto the homepage, adds a permanent St. Jude campaign archive, and makes my contact information easier to find. It also includes clearer navigation, accessible link labels, and smaller images.
 
 [Read about the original launch]({{ '/my-website-is-published/' | relative_url }}) or [explore the source on GitHub](https://github.com/JDBurchHuzzah/jdburchhuzzah.github.io).

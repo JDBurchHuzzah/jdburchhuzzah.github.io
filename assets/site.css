@@ -12,7 +12,9 @@ strong { font-weight: 600; }
 .header-home > .link > .selfie { object-fit: cover; margin-bottom: 22px; }
 .header-home > .description { color: var(--muted); width: 100%; max-width: 580px; margin: 0 auto 22px; font-size: 1.7rem; line-height: 1.7; }
 .social-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; }
-.social-links a { font-size: 1.3rem; color: #c7c7c7; text-decoration: none; padding: 5px 0; }
+.social-links { gap: 8px; }
+.social-links a { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; color: #ededed; text-decoration: none; }
+.social-links svg { display: block; }
 .social-links a:hover { color: var(--accent); }
 .site-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 22px; border-bottom: 1px solid var(--line); padding: 24px 0; margin-bottom: 44px; }
 .site-nav a { padding: 8px 0; font-size: 1.5rem; text-decoration: none; }
