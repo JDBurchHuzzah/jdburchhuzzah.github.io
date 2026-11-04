@@ -8,17 +8,19 @@ a:focus-visible, button:focus-visible { outline: 2px solid #d5a6ff; outline-offs
 p { color: #bdbdbd; font-weight: 400; }
 h1,h2,h3 { color: #ededed; line-height: 1.25; }
 strong { font-weight: 600; }
-.site-shell { padding-top: 125px; }
-.header-home > .link > .selfie { object-fit: cover; margin-bottom: 25px; }
+.site-shell { padding-top: 72px; }
+.header-home > .link > .selfie { object-fit: cover; margin-bottom: 22px; }
 .header-home > .title { margin: 0 0 13px; font-size: 4rem; line-height: 1.2; font-weight: 700; letter-spacing: -1px; color: #ededed; }
-.header-home > .description { color: var(--muted); width: 70%; margin: 0 auto 30px; font-size: 1.85rem; line-height: 1.2; }
+.header-home > .description { color: var(--muted); width: 100%; max-width: 580px; margin: 0 auto 22px; font-size: 1.7rem; line-height: 1.7; }
 .social-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 4px; }
 .social-links a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; color: #ededed; text-decoration: none; }
 .social-links svg { display: block; }
 .social-links a:hover { color: var(--accent); }
-.site-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0; border-bottom: 1px solid var(--line); margin-top: 40px; padding: 0 0 40px; margin-bottom: 40px; }
-.site-nav a { padding: 7px 15px; font-size: 2rem; text-decoration: none; }
+.site-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 22px; border-bottom: 1px solid var(--line); margin-top: 0; padding: 24px 0; margin-bottom: 44px; }
+.site-nav a { padding: 8px 0; font-size: 1.5rem; text-decoration: none; }
 .site-nav a[aria-current] { color: #eee; text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 9px; }
+.site-name { display: block; text-align: center; font-size: 2.5rem; font-weight: 700; text-decoration: none; color: #ededed; }
+.site-name span { display: block; color: var(--muted); font-size: 1.4rem; font-weight: 400; margin-top: 10px; line-height: 1.7; }
 .site-main { margin: 0; min-height: 35vh; }
 .page-heading { margin-bottom: 40px; text-align: center; }
 .page-heading h1 { margin: 0 0 12px; font-size: 3.4rem; }
@@ -78,9 +80,10 @@ strong { font-weight: 600; }
 .alignleft { float: left; }
 .alignright { float: right; }
 @media(max-width: 600px) {
+ .site-shell { padding-top: 36px; }
  .header-home > .description { width: 90%; line-height: 1.5; }
- .site-nav { gap: 0; padding-bottom: 40px; margin-bottom: 40px; }
- .site-nav a { font-size: 1.6rem; padding: 7px 12px; }
+ .site-nav { gap: 0 18px; padding: 18px 0; margin-bottom: 32px; }
+ .site-nav a { font-size: 1.4rem; padding: 8px 0; }
  .three-up { grid-template-columns: 1fr; gap: 28px; }
  .three-up article { border-left: 2px solid #54247d; padding-left: 18px; }
  .feature { padding: 22px; }
