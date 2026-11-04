@@ -9,7 +9,7 @@ category: blog
 description: JD Burch for St. Jude 2026, themed Marching for St. Jude, is complete with $3,100.12 raised.
 ---
 
-<aside class="feature" aria-label="Campaign update"><p class="eyebrow">Campaign complete · 2026</p><h2>Thank you for $3,100.12 raised!</h2><p>JD Burch for St. Jude 2026, themed Marching for St. Jude, has ended and exceeded its $3,000 goal. Together, supporters have now raised $10,191.77 across my five annual campaigns.</p><a href="https://tiltify.com/@jd-burch/jd-burch-for-st-jude-2026">View the final results on Tiltify →</a></aside>
+<aside class="feature" aria-label="Campaign update"><p class="eyebrow">Campaign complete · 2026</p><h2>Thank you for $3,100.12 raised!</h2><p>JD Burch for St. Jude 2026, themed Marching for St. Jude, has ended and exceeded its $3,000 goal. Together, supporters have now raised $10,191.77 across my five annual campaigns.</p><a href="https://tiltify.com/@jd-burch/jd-burch-for-st-jude-2026">View the final results on Tiltify</a></aside>
 
 <p class="small-note">The original campaign announcement follows below.</p>
 

@@ -85,7 +85,7 @@ layout: page
 
 <h2>Scouts - Adult</h2>
 <p>I now return to Trail to Eagle each summer as a Scoutmaster and Health Officer. I lead a provisional troop and serve as a primary member of the medical staff, using my Red Cross training and certifications to support campers’ health and safety.</p>
-<p><a href="{{ '/about/' | relative_url }}">Read more about my current work at TTE →</a></p>
+<p><a href="{{ '/about/' | relative_url }}">Read more about my current work at TTE</a></p>
 
 <h2 id="podcasts">Tech Podcasts</h2>
 <p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business.</p>
@@ -124,7 +124,7 @@ layout: page
 
 <h2 id="jude">JD Burch for St. Jude</h2>
 <p>I began my annual JD Burch for St. Jude fundraising campaigns in 2022. The theme for 2025 and 2026 was Marching for St. Jude.</p>
-<p><a href="{{ '/st-jude/' | relative_url }}">Visit the campaign hub for the full history and results →</a></p>
+<p><a href="{{ '/st-jude/' | relative_url }}">Visit the campaign hub for the full history and results</a></p>
 
 <h2 id="ranger">Junior Ranger Program</h2>
 <div style="margin-left: 25px;">
