@@ -6,7 +6,7 @@ image: /assets/images/St.-Jude-logo.png
 headerImage: true
 star: false
 category: blog
-description: My 2025 campaign to help cure childhood cancer.
+description: JD Burch for St. Jude 2025, with the theme Marching for St. Jude.
 ---
 
 <center><strong>It's basically September, which means it's time to help end childhood cancer. You can donate <a href="https://jdburch.com/2025">here</a>, and feel free to read my article below.</strong></center><br>

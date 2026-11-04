@@ -15,7 +15,7 @@ I play tenor sax in the Michigan Marching Band, Basketball Band, and University 
 
 ## Giving back
 
-Every September, I run a fundraiser for St. Jude alongside the Relay community. My campaigns started with mowing donors’ names into lawns and grew into **Marching for St. Jude**, connecting donations with my time rehearsing and performing with the band.
+**JD Burch for St. Jude** is the umbrella name for my annual fundraising campaigns alongside the Relay community. I started in 2022 with lawn-mowing incentives. In 2025 and 2026, the theme was **Marching for St. Jude**, connecting donations with my time rehearsing and performing with the Michigan Marching Band.
 
 Together, supporters raised **$10,191.77 across the 2022–2026 campaigns**. [Explore the campaigns and results →]({{ '/st-jude/' | relative_url }})
 
