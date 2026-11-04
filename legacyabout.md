@@ -84,7 +84,8 @@ layout: page
 </div>
 
 <h2>Scouts - Adult</h2>
-<p>In 2024, I will be returning to Trail to Eagle as an Assistant Scoutmaster for Blue Troop. Rather than becoming a merit badge counsler, I will be joining the Med Staff! I will be training with Rod Beckwith and Gordy throughout the year so that I can learn the necessary first aid and lifesaving skills necessary.</p><br>
+<p>I now return to Trail to Eagle each summer as a Scoutmaster and Health Officer. I lead a provisional troop and serve as a primary member of the medical staff, using my Red Cross training and certifications to support campers’ health and safety.</p>
+<p><a href="{{ '/about/' | relative_url }}">Read more about my current work at TTE →</a></p>
 
 <h2 id="podcasts">Tech Podcasts</h2>
 <p>I listen to many podcasts by <a href="https://relay.fm">Relay FM</a>. I am very active in the Relay FM Members discord, where I have met many friends over the past few years. Through the many tech podcasts I listen to, I have learned quite a bit about Apple and enjoy their products and business.</p>
