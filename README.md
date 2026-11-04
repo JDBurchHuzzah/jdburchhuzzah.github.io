@@ -22,6 +22,6 @@ Open http://localhost:4000. Build without the server using `bundle exec jekyll b
 - Writing: `_posts/`. Existing article URLs are retained.
 - Résumé page and PDF are removed for now.
 - Shared navigation, header, footer: `_includes/`; visual refinements: `assets/site.css`.
-- The original dark Indigo palette, Helvetica typography, portrait, and 810px column are preserved.
+- The dark Indigo foundation, Helvetica typography, and 810px column are preserved; the blue accents complement the updated headshot.
 
 No analytics or third-party fundraising scripts are required to browse the site. Donations happen on the linked Tiltify campaign.

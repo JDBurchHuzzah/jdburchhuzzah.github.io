@@ -15,7 +15,7 @@ jdburch.com is my personal website: a home for my writing, projects, and St. Jud
 
 ## How it’s built
 
-The site uses Jekyll and the Indigo theme, hosted on GitHub Pages with a custom domain. The design keeps a black background, purple accents, a centered portrait, and a simple reading layout.
+The site uses Jekyll and the Indigo theme, hosted on GitHub Pages with a custom domain. The design keeps a black background, blue accents, a centered portrait, and a simple reading layout.
 
 ## A more useful home
 
