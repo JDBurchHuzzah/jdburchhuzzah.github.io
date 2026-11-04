@@ -7,7 +7,7 @@ description: Economics at the University of Michigan, music with the Michigan Ma
   <p class="eyebrow">A little about me</p>
   <h2 id="hello">Hey, I’m JD.</h2>
   <p>I’m studying Economics at the University of Michigan, playing tenor sax with the Michigan Marching Band, and raising money for St. Jude Children’s Research Hospital. This is where I share what I’m working on and the things I care about.</p>
-  <div class="actions"><a class="button" href="{{ '/projects/' | relative_url }}">Explore my work <span aria-hidden="true">→</span></a><a href="mailto:{{ site.email }}">Get in touch</a></div>
+  <div class="actions"><a class="button" href="{{ '/projects/' | relative_url }}">Explore my work <span aria-hidden="true">→</span></a></div>
 </section>
 <section class="section" aria-labelledby="now">
   <div class="section-heading"><h2 id="now">What I’m doing</h2><a href="{{ '/about/' | relative_url }}">More about me →</a></div>
@@ -26,4 +26,3 @@ description: Economics at the University of Michigan, music with the Michigan Ma
   {% assign writing = site.posts | where: 'category', 'blog' | where_exp: 'post', 'post.hidden != true' %}
   {% for post in writing limit: 2 %}{% include post-card.html %}{% endfor %}
 </section>
-<section class="section contact"><h2>Let’s connect.</h2><p>Have a question about my work, music, or fundraising? I’d love to hear from you.</p><a href="mailto:{{ site.email }}">{{ site.email }} →</a></section>

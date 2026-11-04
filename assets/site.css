@@ -54,7 +54,7 @@ strong { font-weight: 600; }
 .post-card h3 a:hover { color: var(--accent); }
 .post-card p { font-size: 1.45rem; margin: 0; }
 .about-intro { display: grid; grid-template-columns: 150px 1fr; gap: 30px; align-items: center; margin-bottom: 40px; }
-.about .about-intro img { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; }
+.about .about-intro img { width: 150px; height: 150px; object-fit: cover; border-radius: 4px; }
 .about-intro h2 { margin-top: 0; }
 .about-intro p { margin: 0; }
 .project-entry { border-bottom: 1px solid var(--line); padding: 28px 0; }
